@@ -1,0 +1,844 @@
+#EXTM3U
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/793/500" group-title="Generos",Adulto Contemporaneo
+https://buecrplb01.cienradios.com.ar/793_Adulto_Contemporaneo_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/998/500" group-title="Generos",Bachata
+https://buecrplb01.cienradios.com.ar/998_Bachata_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/576/500" group-title="Generos",Boleros
+https://buecrplb01.cienradios.com.ar/576_Boleros_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/577/500" group-title="Generos",Bossa Nova
+https://buecrplb01.cienradios.com.ar/577_Bossa_Nova_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/625/500" group-title="Generos",BritPop
+https://buecrplb01.cienradios.com.ar/625_Britpop_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/786/500" group-title="Generos",Chill Out
+https://buecrplb01.cienradios.com.ar/786_Chillout_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/642/500" group-title="Generos",Clasica
+https://buecrplb01.cienradios.com.ar/642_Clasica_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/799/500" group-title="Generos",Cristiana
+https://buecrplb01.cienradios.com.ar/799_Cristiana_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/578/500" group-title="Generos",Cuarteto
+https://buecrplb01.cienradios.com.ar/578_Cuarteto_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/779/500" group-title="Generos",Cumbia
+https://buecrplb01.cienradios.com.ar/779_Cumbia_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/568/500" group-title="Generos",Electronic Tango
+https://buecrplb01.cienradios.com.ar/568_Electronic_Tango_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/580/500" group-title="Generos",Electronica
+https://buecrplb01.cienradios.com.ar/580_Electronico_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1415/500" group-title="Generos",Fado
+https://buecrplb01.cienradios.com.ar/1415_Fado_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/582/500" group-title="Generos",Folklore
+https://buecrplb01.cienradios.com.ar/582_Folklore_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/660/500" group-title="Generos",Gospel / Cristiana
+https://buecrplb01.cienradios.com.ar/660_Gospel_y_Cristiana_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/665/500" group-title="Generos",Heavy Metal
+https://buecrplb01.cienradios.com.ar/665_Heavy_Metal_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1022/500" group-title="Generos",Heavy Metal Nacional
+https://buecrplb01.cienradios.com.ar/1022_Heavy_Metal_Nacional_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1313/500" group-title="Generos",Indie Argentino
+https://buecrplb01.cienradios.com.ar/1313_Indie_Argentino_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/681/500" group-title="Generos",Jazz
+https://buecrplb01.cienradios.com.ar/681_Jazz_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/947/500" group-title="Generos",K-Pop
+https://buecrplb01.cienradios.com.ar/947_K_Pop_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/689/500" group-title="Generos",Latina
+https://buecrplb01.cienradios.com.ar/689_Latina_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/794/500" group-title="Generos",Lentos
+https://buecrplb01.cienradios.com.ar/794_Lentos_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/709/500" group-title="Generos",Lounge
+https://buecrplb01.cienradios.com.ar/709_Lounge_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/588/500" group-title="Generos",MPB
+https://buecrplb01.cienradios.com.ar/588_MPB_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/722/500" group-title="Generos",New Age
+https://buecrplb01.cienradios.com.ar/722_New_Age_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/727/500" group-title="Generos",Opera
+https://buecrplb01.cienradios.com.ar/727_Opera_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1050/500" group-title="Generos",Opera Pop
+https://buecrplb01.cienradios.com.ar/1050_Opera_Pop_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/731/500" group-title="Generos",Opera Romantica
+https://buecrplb01.cienradios.com.ar/731_Opera_Romantica_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1225/500" group-title="Generos",Pop
+https://buecrplb01.cienradios.com.ar/1225_Pop_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/738/500" group-title="Generos",Power Ballads
+https://buecrplb01.cienradios.com.ar/738_Power_Ballads_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/833/500" group-title="Generos",Putumayo
+https://buecrplb01.cienradios.com.ar/833_Putumayo_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/758/500" group-title="Generos",Reggae
+https://buecrplb01.cienradios.com.ar/758_Reggae_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/974/500" group-title="Generos",Reggae Nacional
+https://buecrplb01.cienradios.com.ar/974_Reggae_Nacional_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/759/500" group-title="Generos",Reggaeton
+https://buecrplb01.cienradios.com.ar/759_Reggaeton_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/760/500" group-title="Generos",Reggaeton Romantico
+https://buecrplb01.cienradios.com.ar/760_Reggaeton_Romantico_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/816/500" group-title="Generos",Rock Alternativo
+https://buecrplb01.cienradios.com.ar/816_Rock_Alternativo_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/826/500" group-title="Generos",Rock Alternativo Nacional
+https://buecrplb01.cienradios.com.ar/826_Rock_Alternativo_Nacional_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/964/500" group-title="Generos",Rock Latinoamericano
+https://buecrplb01.cienradios.com.ar/964_Rock_Latinoamericano_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/597/500" group-title="Generos",Rock Nacional
+https://buecrplb01.cienradios.com.ar/597_Nacional_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1081/500" group-title="Generos",Romantica
+https://buecrplb01.cienradios.com.ar/1081_Romantica_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/594/500" group-title="Generos",Salsa
+https://buecrplb01.cienradios.com.ar/594_Salsa_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/768/500" group-title="Generos",Samba
+https://buecrplb01.cienradios.com.ar/768_Samba_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/771/500" group-title="Generos",Smooth Jazz
+https://buecrplb01.cienradios.com.ar/771_Smooth_Jazz_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/596/500" group-title="Generos",Tango
+https://buecrplb01.cienradios.com.ar/596_Tango_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/567/500" group-title="Generos",Tango Electronico
+https://buecrplb01.cienradios.com.ar/567_Tango_Electronico_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/977/500" group-title="Tematicos",Ad Republic
+https://buecrplb01.cienradios.com.ar/977_Ad_Republic_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/566/500" group-title="Tematicos",All About Tango
+https://buecrplb01.cienradios.com.ar/566_All_About_Tango_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1019/500" group-title="Tematicos",Amadeus
+https://buecrplb01.cienradios.com.ar/1019_Amadeus_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/810/500" group-title="Tematicos",Argentinos en Ingles
+https://buecrplb01.cienradios.com.ar/810_Argentinos_en_Ingles_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/745/500" group-title="Tematicos",Arte Urbano
+https://buecrplb01.cienradios.com.ar/745_Arte_Urbano_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/747/500" group-title="Tematicos",Bautista
+https://buecrplb01.cienradios.com.ar/747_Bautista_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/615/500" group-title="Tematicos",Blend
+https://buecrplb01.cienradios.com.ar/615_Blend_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/640/500" group-title="Tematicos",Cadena Latina
+https://buecrplb01.cienradios.com.ar/640_Cadena_Latina_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/871/500" group-title="Tematicos",Campus 21
+https://buecrplb01.cienradios.com.ar/871_Campus_21_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/795/500" group-title="Tematicos",Canciones son Amores
+https://buecrplb01.cienradios.com.ar/795_Canciones_Son_Amores_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/796/500" group-title="Tematicos",Celebration
+https://buecrplb01.cienradios.com.ar/796_Celebration_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1002/500" group-title="Tematicos",Clasica para Meditar
+https://buecrplb01.cienradios.com.ar/1002_Clasica_Para_Meditar_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/798/500" group-title="Tematicos",Classic Cinema
+https://buecrplb01.cienradios.com.ar/798_Classic_Cinema_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/749/500" group-title="Tematicos",Covers
+https://buecrplb01.cienradios.com.ar/749_Radio_Covers_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/932/500" group-title="Tematicos",Covers Nacional
+https://buecrplb01.cienradios.com.ar/932_Covers_Nacional_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/601/500" group-title="Tematicos",Del Camino
+https://buecrplb01.cienradios.com.ar/601_Del_Camino_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/650/500" group-title="Tematicos",Divas de la Opera
+https://buecrplb01.cienradios.com.ar/650_Divas_De_La_Opera_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/581/500" group-title="Tematicos",Ellas
+https://buecrplb01.cienradios.com.ar/581_Ellas_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/801/500" group-title="Tematicos",Ellos
+https://buecrplb01.cienradios.com.ar/801_Ellos_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/802/500" group-title="Tematicos",Enamorados
+https://buecrplb01.cienradios.com.ar/802_Enamorados_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/603/500" group-title="Tematicos",Exito a la Vista
+https://buecrplb01.cienradios.com.ar/603_Exito_a_la_Vista_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/751/500" group-title="Tematicos",Estrenos
+https://buecrplb01.cienradios.com.ar/751_Estrenos_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1041/500" group-title="Tematicos",Fiesta Dance
+https://buecrplb01.cienradios.com.ar/1041_Fiesta_Dance_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/658/500" group-title="Tematicos",GEN
+https://buecrplb01.cienradios.com.ar/658_Gen_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/662/500" group-title="Tematicos",Grandes del Rock
+https://buecrplb01.cienradios.com.ar/662_Grandes_Del_Rock_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/599/500" group-title="Tematicos",Grandes Voces
+https://buecrplb01.cienradios.com.ar/599_Grandes_Voces_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/570/500" group-title="Tematicos",Greatest Tango
+https://buecrplb01.cienradios.com.ar/570_Greatest_Tango_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/666/500" group-title="Tematicos",Heroes de la Opera
+https://buecrplb01.cienradios.com.ar/666_Heroes_De_La_Opera_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1029/500" group-title="Tematicos",Hottest Dj's
+https://buecrplb01.cienradios.com.ar/1029_Hottest_DJs_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/908/500" group-title="Tematicos",I-teen
+https://buecrplb01.cienradios.com.ar/908_I_Teen_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1342/500" group-title="Tematicos",Las Mil y una Noches
+https://buecrplb01.cienradios.com.ar/1342_Las_Mil_y_Una_Noches_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/584/500" group-title="Tematicos",La Musica de Siempre
+https://buecrplb01.cienradios.com.ar/584_La_Musica_De_Siempre_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/587/500" group-title="Tematicos",Letras y Canciones
+https://buecrplb01.cienradios.com.ar/587_Letras_y_Canciones_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/744/500" group-title="Tematicos",Lo que Quiero
+https://buecrplb01.cienradios.com.ar/744_Quiero_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/708/500" group-title="Tematicos",Los Tenores
+https://buecrplb01.cienradios.com.ar/708_Los_Tenores_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1042/500" group-title="Tematicos",Matador
+https://buecrplb01.cienradios.com.ar/1042_Matador_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/716/500" group-title="Tematicos",Mini
+https://buecrplb01.cienradios.com.ar/716_Mini_Radio_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/718/500" group-title="Tematicos",Miss XV
+https://buecrplb01.cienradios.com.ar/718_Miss_15_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1179/500" group-title="Tematicos",Mundo Clasico
+https://buecrplb01.cienradios.com.ar/1179_Mundo_Clasico_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1075/500" group-title="Tematicos",Neo Soul
+https://buecrplb01.cienradios.com.ar/1075_Neo_Soul_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/723/500" group-title="Tematicos",New Party
+https://buecrplb01.cienradios.com.ar/723_New_Party_Radio_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/724/500" group-title="Tematicos",Noche Latina
+https://buecrplb01.cienradios.com.ar/724_Noche_Latina_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/734/500" group-title="Tematicos",Party Dance
+https://buecrplb01.cienradios.com.ar/734_Party_Dance_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/950/500" group-title="Tematicos",Pasion por la Vida
+https://buecrplb01.cienradios.com.ar/950_Pasion_por_la_Vida_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/591/500" group-title="Tematicos",Peliculas
+https://buecrplb01.cienradios.com.ar/591_Peliculas_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1001/500" group-title="Tematicos",Piano Classic
+https://buecrplb01.cienradios.com.ar/1001_Piano_Classic_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/739/500" group-title="Tematicos",Primer Exito
+https://buecrplb01.cienradios.com.ar/739_Primer_Exito_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/741/500" group-title="Tematicos",Princesas
+https://buecrplb01.cienradios.com.ar/741_Princesas_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/585/500" group-title="Tematicos",Puro Reggaeton
+https://buecrplb01.cienradios.com.ar/585_La_R_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/761/500" group-title="Tematicos",Reiki
+https://buecrplb01.cienradios.com.ar/761_Reiki_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1074/500" group-title="Tematicos",Relax y Meditacion
+https://buecrplb01.cienradios.com.ar/1074_Relax_y_Meditacion_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1319/500" group-title="Tematicos",Restauracion
+https://buecrplb01.cienradios.com.ar/1319_Restauracion_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/592/500" group-title="Tematicos",Retromix
+https://buecrplb01.cienradios.com.ar/592_Retromix_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/764/500" group-title="Tematicos",Rock Hits
+https://buecrplb01.cienradios.com.ar/764_Rock_Hits_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1086/500" group-title="Tematicos",Selfie
+https://buecrplb01.cienradios.com.ar/1086_Selfie_Radio_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/770/500" group-title="Tematicos",SI!
+https://buecrplb01.cienradios.com.ar/770_Si_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/630/500" group-title="Tematicos",Target
+https://buecrplb01.cienradios.com.ar/630_Target_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/905/500" group-title="Tematicos",Teen Girls
+https://buecrplb01.cienradios.com.ar/905_Teen_Girls_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/773/500" group-title="Tematicos",Teen Internacional
+https://buecrplb01.cienradios.com.ar/773_Teen_Internacional_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/643/500" group-title="Tematicos",Teens
+https://buecrplb01.cienradios.com.ar/643_Teen_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1032/500" group-title="Tematicos",Teens - Series y Peliculas
+https://buecrplb01.cienradios.com.ar/1032_Teen_Series_y_Peliculas_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/804/500" group-title="Tematicos",Todo Tango
+https://buecrplb01.cienradios.com.ar/804_Todo_Tango_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/778/500" group-title="Tematicos",Trendy
+https://buecrplb01.cienradios.com.ar/778_Trendy_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/782/500" group-title="Tematicos",Un Solo Exito
+https://buecrplb01.cienradios.com.ar/782_Un_Solo_Exito_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/784/500" group-title="Tematicos",Viejitos Piolas
+https://buecrplb01.cienradios.com.ar/784_Viejitos_Piolas_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/756/500" group-title="Tematicos",Vivo
+https://buecrplb01.cienradios.com.ar/756_Vivo_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/953/500" group-title="Tematicos",Vivo Nacional
+https://buecrplb01.cienradios.com.ar/953_Vivo_Nacional_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/785/500" group-title="Tematicos",Yoga
+https://buecrplb01.cienradios.com.ar/785_Yoga_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1338/500" group-title="Artistas",50 Sombras
+https://buecrplb01.cienradios.com.ar/1338_50_Sombras_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1096/500" group-title="Artistas",Abel Pintos
+https://buecrplb01.cienradios.com.ar/1096_Abel_Pintos_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/624/500" group-title="Artistas",AC/DC
+https://buecrplb01.cienradios.com.ar/624_AC_DC_y_Artistas_Relacionados_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/829/500" group-title="Artistas",Aerosmith
+https://buecrplb01.cienradios.com.ar/829_Aerosmith_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1033/500" group-title="Artistas",Alejandro Lerner
+https://buecrplb01.cienradios.com.ar/1033_Alejandro_Lerner_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/618/500" group-title="Artistas",Axel
+https://buecrplb01.cienradios.com.ar/618_Axel_y_Artistas_Relacionados_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/960/500" group-title="Artistas",Beach Boys
+https://buecrplb01.cienradios.com.ar/960_Beach_Boys_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/965/500" group-title="Artistas",Bob Dylan
+https://buecrplb01.cienradios.com.ar/965_Bob_Dylan_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1466/500" group-title="Artistas",Canto para Bailar
+https://buecrplb01.cienradios.com.ar/1466_Canto_Para_Bailar_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1053/500" group-title="Artistas",Carly Simon
+https://buecrplb01.cienradios.com.ar/1053_Carly_Simon_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1004/500" group-title="Artistas",Celine Dion
+https://buecrplb01.cienradios.com.ar/1004_Celine_Dion_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1009/500" group-title="Artistas",Chaqueño Palavecino
+https://buecrplb01.cienradios.com.ar/1009_Chaqueno_Palavecino_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/877/500" group-title="Artistas",Coldplay
+https://buecrplb01.cienradios.com.ar/877_Coldplay_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1471/500" group-title="Artistas",Cuarteto de Nos
+https://buecrplb01.cienradios.com.ar/1471_Cuarteto_de_Nos_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/856/500" group-title="Artistas",David Bisbal
+https://buecrplb01.cienradios.com.ar/856_David_Bisbal_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/892/500" group-title="Artistas",David Bowie
+https://buecrplb01.cienradios.com.ar/892_David_Bowie_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/946/500" group-title="Artistas",David Guetta
+https://buecrplb01.cienradios.com.ar/946_David_Guetta_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/649/500" group-title="Artistas",Diego Torres
+https://buecrplb01.cienradios.com.ar/649_Diego_Torres_y_Artistas_Relacionados_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1269/500" group-title="Artistas",Ed Sheeran
+https://buecrplb01.cienradios.com.ar/1269_Ed_Sheeran_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/664/500" group-title="Artistas",Guns N' Roses
+https://buecrplb01.cienradios.com.ar/664_Guns_N_Roses_y_Artistas_Relacionados_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1016/500" group-title="Artistas",Iggy Pop
+https://buecrplb01.cienradios.com.ar/1016_Iggy_Pop_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1461/500" group-title="Artistas",Jorge Drexler
+https://buecrplb01.cienradios.com.ar/1461_Jorge_Drexler_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1469/500" group-title="Artistas",La Vela Puerca
+https://buecrplb01.cienradios.com.ar/1469_La_Vela_Puerca_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/710/500" group-title="Artistas",Luis Miguel
+https://buecrplb01.cienradios.com.ar/710_Luis_Miguel_y_Artistas_Relacionados_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/712/500" group-title="Artistas",Mana
+https://buecrplb01.cienradios.com.ar/712_Mana_y_Artistas_Relacionados_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1464/500" group-title="Artistas",Marama
+https://buecrplb01.cienradios.com.ar/1464_Marama_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1008/500" group-title="Artistas",Maroon 5
+https://buecrplb01.cienradios.com.ar/1008_Maroon_5_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/920/500" group-title="Artistas",Miranda!
+https://buecrplb01.cienradios.com.ar/920_Miranda_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/626/500" group-title="Artistas",Pink Floyd
+https://buecrplb01.cienradios.com.ar/626_Pink_Floyd_y_Artistas_Relacionados_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/743/500" group-title="Artistas",Queen
+https://buecrplb01.cienradios.com.ar/743_Queen_y_Artistas_Relacionados_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1361/500" group-title="Artistas",Rapido y Furioso
+https://buecrplb01.cienradios.com.ar/1361_Rapido_y_Furioso_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/852/500" group-title="Artistas",Red Hot Chili Peppers
+https://buecrplb01.cienradios.com.ar/852_Red_Hot_Chili_Peppers_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/788/500" group-title="Artistas",Ricardo Arjona
+https://buecrplb01.cienradios.com.ar/788_Ricardo_Arjona_y_Artistas_Relacionados_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/719/500" group-title="Artistas",Ricardo Montaner
+https://buecrplb01.cienradios.com.ar/719_Ricardo_Montaner_y_Artistas_Relacionados_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/762/500" group-title="Artistas",Ricky Martin
+https://buecrplb01.cienradios.com.ar/762_Ricky_Martin_y_Artistas_Relacionados_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1465/500" group-title="Artistas",Rombai
+https://buecrplb01.cienradios.com.ar/1465_Rombai_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1092/500" group-title="Artistas",Romeo Santos
+https://buecrplb01.cienradios.com.ar/1092_Romeo_Santos_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1472/500" group-title="Artistas",Ruben Rada
+https://buecrplb01.cienradios.com.ar/1472_Ruben_Rada_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/881/500" group-title="Artistas",Serrat & Sabina
+https://buecrplb01.cienradios.com.ar/881_Serrat_Sabina_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/746/500" group-title="Artistas",Shakira
+https://buecrplb01.cienradios.com.ar/746_Shakira_y_Artistas_Relacionados_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/772/500" group-title="Artistas",Soda Stereo
+https://buecrplb01.cienradios.com.ar/772_Soda_Stereo_y_Artistas_Relacionados_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/683/500" group-title="Artistas",The Beatles
+https://buecrplb01.cienradios.com.ar/683_John_Paul_George_and_Ringo_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/765/500" group-title="Artistas",The Rolling Stones
+https://buecrplb01.cienradios.com.ar/765_The_Rolling_Stones_y_Artistas_Relacionados_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1467/500" group-title="Artistas",Toco para Vos
+https://buecrplb01.cienradios.com.ar/1467_Toco_Para_Vos_y_Art_Rel_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/805/500" group-title="Artistas",U2
+https://buecrplb01.cienradios.com.ar/805_U2_y_Artistas_Relacionados_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1083/500" group-title="Exitos",Top40
+https://buecrplb01.cienradios.com.ar/1083_Top_40_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/667/500" group-title="Exitos",Hot 100
+https://buecrplb01.cienradios.com.ar/667_Hot_100_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/668/500" group-title="Exitos",Hot 100 Contemporaneo
+https://buecrplb01.cienradios.com.ar/668_Hot_100_Adulto_Contemporaneo_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/671/500" group-title="Exitos",Hot 100 Dance
+https://buecrplb01.cienradios.com.ar/671_Hot_100_Dance_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/931/500" group-title="Exitos",Hot 100 Latino
+https://buecrplb01.cienradios.com.ar/931_Hot_100_Latino_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/674/500" group-title="Exitos",Hot 100 Nacional
+https://buecrplb01.cienradios.com.ar/674_Hot_100_Nacional_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/675/500" group-title="Exitos",Hot 100 Reggaeton
+https://buecrplb01.cienradios.com.ar/675_Hot_100_Reggaeton_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/676/500" group-title="Exitos",Hot 100 Rock
+https://buecrplb01.cienradios.com.ar/676_Hot_100_Rock_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/677/500" group-title="Exitos",Hot 100 Romantica
+https://buecrplb01.cienradios.com.ar/677_Hot_100_Romantica_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/910/500" group-title="Exitos",Hot 100 Salsa y Bachata
+https://buecrplb01.cienradios.com.ar/910_Hot_100_Salsa_y_Bachata_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/679/500" group-title="Exitos",Hot 100 Teen
+https://buecrplb01.cienradios.com.ar/679_Hot_100_Teen_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/611/500" group-title="Decadas",50'
+https://buecrplb01.cienradios.com.ar/611_50_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/612/500" group-title="Decadas",60'
+https://buecrplb01.cienradios.com.ar/612_60_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/613/500" group-title="Decadas",Internacional 70'
+https://buecrplb01.cienradios.com.ar/613_70_Internacional_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/808/500" group-title="Decadas",Internacional 80'
+https://buecrplb01.cienradios.com.ar/808_80_Internacional_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/633/500" group-title="Decadas",Internacional 90'
+https://buecrplb01.cienradios.com.ar/633_90_Internacional_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/792/500" group-title="Decadas",Internacional 80/90
+https://buecrplb01.cienradios.com.ar/792_80_90_Internacional_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/589/500" group-title="Decadas",Nacional 80/90
+https://buecrplb01.cienradios.com.ar/589_80_90_Nacional_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/575/500" group-title="Decadas",Nacional 80'
+https://buecrplb01.cienradios.com.ar/575_80_Nacional_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/634/500" group-title="Decadas",Nacional 90'
+https://buecrplb01.cienradios.com.ar/634_90_Nacional_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/725/500" group-title="Decadas",Nuevos Clasicos
+https://buecrplb01.cienradios.com.ar/725_Nuevos_Clasicos_Nacional_E_Internacional_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/726/500" group-title="Decadas",Nuevos Clasicos - Nacional
+https://buecrplb01.cienradios.com.ar/726_Nuevos_Clasicos_Nacional_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/590/500" group-title="Decadas",Nuevos Clasicos - Internacional
+https://buecrplb01.cienradios.com.ar/590_Nuevos_Clasicos_Internacional_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/955/500" group-title="Decadas",Nacional e Internacional 90'
+https://buecrplb01.cienradios.com.ar/955_90_Nacional_E_Internacional_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/571/500" group-title="Decadas",Nacional e Internacional 80'
+https://buecrplb01.cienradios.com.ar/571_80_Nacional_E_Internacional_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1034/500" group-title="Decadas",#1 UK - 80'
+https://buecrplb01.cienradios.com.ar/1034_Los_Numero_1_de_los_80_UK_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1025/500" group-title="Decadas",#1 USA - 80'
+https://buecrplb01.cienradios.com.ar/1025_Los_Numero_1_de_los_80_USA_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1047/500" group-title="Decadas",#1 UK - 90'
+https://buecrplb01.cienradios.com.ar/1047_Los_Numero_1_de_los_90_UK_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1030/500" group-title="Decadas",#1 USA - 90'
+https://buecrplb01.cienradios.com.ar/1030_Los_Numero_1_de_los_90_USA_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/690/500" group-title="Decadas",Lentos 60'
+https://buecrplb01.cienradios.com.ar/690_Lentos_60_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/691/500" group-title="Decadas",Lentos 70'
+https://buecrplb01.cienradios.com.ar/691_Lentos_70_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/586/500" group-title="Decadas",Lentos 80'
+https://buecrplb01.cienradios.com.ar/586_Lentos_80_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/692/500" group-title="Decadas",Lentos 90'
+https://buecrplb01.cienradios.com.ar/692_Lentos_90_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/936/500" group-title="Decadas",Lentos 2000
+https://buecrplb01.cienradios.com.ar/936_Lentos_2000_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/766/500" group-title="Decadas",Romantica 2000
+https://buecrplb01.cienradios.com.ar/766_Romantica_2000_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1277/500" group-title="Dia a Dia",1h. de Gimnasia
+https://buecrplb01.cienradios.com.ar/1277_1_Hora_de_Gimnasia_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1268/500" group-title="Dia a Dia",1h. de Ritmos Caribeños
+https://buecrplb01.cienradios.com.ar/1268_1_Hora_de_Ritmos_Caribenos_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1230/500" group-title="Dia a Dia",1h. de Zumba
+https://buecrplb01.cienradios.com.ar/1230_1_Hora_de_Zumba_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1265/500" group-title="Dia a Dia",100 Canciones Romanticas
+https://buecrplb01.cienradios.com.ar/1265_20_Canciones_Romanticas_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1366/500" group-title="Dia a Dia",15 Canciones de Animales
+https://buecrplb01.cienradios.com.ar/1366_15_Canciones_de_Animales_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1347/500" group-title="Dia a Dia",15 Canciones de Peliculas Romanticas
+https://buecrplb01.cienradios.com.ar/1347_15_Canciones_de_Peliculas_Romanticas_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1278/500" group-title="Dia a Dia",20 Artistas Latinos
+https://buecrplb01.cienradios.com.ar/1278_20_Artistas_Latinos_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1212/500" group-title="Dia a Dia",20 Artistas Pop
+https://buecrplb01.cienradios.com.ar/1212_20_Artistas_Pop_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1286/500" group-title="Dia a Dia",20 Canciones de Fiesta
+https://buecrplb01.cienradios.com.ar/1286_20_Canciones_de_Fiesta_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1329/500" group-title="Dia a Dia",20 Lentos para Amar
+https://buecrplb01.cienradios.com.ar/1329_20_Lentos_para_Amar_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1370/500" group-title="Dia a Dia",22 Momentos
+https://buecrplb01.cienradios.com.ar/1370_22_Momentos_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1396/500" group-title="Dia a Dia",25 Canciones para Almorzar
+https://buecrplb01.cienradios.com.ar/1396_25_Canciones_para_Almorzar_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1331/500" group-title="Dia a Dia",A la Sombra
+https://buecrplb01.cienradios.com.ar/1331_A_la_Sombra_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1325/500" group-title="Dia a Dia",Adrenalina
+https://buecrplb01.cienradios.com.ar/1325_Adrenalina_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1336/500" group-title="Dia a Dia",Al Aire Libre
+https://buecrplb01.cienradios.com.ar/1336_Al_Aire_Libre_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1252/500" group-title="Dia a Dia",Amo la Musica
+https://buecrplb01.cienradios.com.ar/1252_Amo_la_Musica_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1263/500" group-title="Dia a Dia",Anti-Domingo
+https://buecrplb01.cienradios.com.ar/1263_AntiDomingo_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1401/500" group-title="Dia a Dia",Bailando Electro
+https://buecrplb01.cienradios.com.ar/1401_Bailando_Electro_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1398/500" group-title="Dia a Dia",Bailando Latino
+https://buecrplb01.cienradios.com.ar/1398_Bailando_Latino_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1395/500" group-title="Dia a Dia",Bailando Retro
+https://buecrplb01.cienradios.com.ar/1395_Bailando_Retro_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1392/500" group-title="Dia a Dia",Bailando Rock&Roll
+https://buecrplb01.cienradios.com.ar/1392_Bailando_Rock_and_Roll_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1373/500" group-title="Dia a Dia",BFF
+https://buecrplb01.cienradios.com.ar/1373_Best_Friends_Forever_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1267/500" group-title="Dia a Dia",Bici
+https://buecrplb01.cienradios.com.ar/1267_Bici_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1376/500" group-title="Dia a Dia",Buena Onda
+https://buecrplb01.cienradios.com.ar/1376_Buena_Onda_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1232/500" group-title="Dia a Dia",Canciones de la Ducha
+https://buecrplb01.cienradios.com.ar/1232_Canciones_de_la_Ducha_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1284/500" group-title="Dia a Dia",Canciones para Viajar
+https://buecrplb01.cienradios.com.ar/1284_Canciones_para_Viajar_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1384/500" group-title="Dia a Dia",Chocolatada
+https://buecrplb01.cienradios.com.ar/1384_Chocolatada_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1292/500" group-title="Dia a Dia",Costumbres Argentinas
+https://buecrplb01.cienradios.com.ar/1292_Costumbres_Argentinas_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1360/500" group-title="Dia a Dia",Crossfit
+https://buecrplb01.cienradios.com.ar/1360_Crossfit_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1374/500" group-title="Dia a Dia",Daiquiri
+https://buecrplb01.cienradios.com.ar/1374_Daiquiri_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1371/500" group-title="Dia a Dia",Del Cassette
+https://buecrplb01.cienradios.com.ar/1371_Del_Cassette_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1302/500" group-title="Dia a Dia",Desenchufado
+https://buecrplb01.cienradios.com.ar/1302_Desenchufado_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1402/500" group-title="Dia a Dia",Discman
+https://buecrplb01.cienradios.com.ar/1402_Discman_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1253/500" group-title="Dia a Dia",Domingo en Casa
+https://buecrplb01.cienradios.com.ar/1253_Domingo_en_Casa_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1211/500" group-title="Dia a Dia",En la Oficina
+https://buecrplb01.cienradios.com.ar/1211_En_la_Oficina_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1249/500" group-title="Dia a Dia",En Linea
+https://buecrplb01.cienradios.com.ar/1249_En_Linea_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1204/500" group-title="Dia a Dia",Entrenando
+https://buecrplb01.cienradios.com.ar/1204_Entrenando_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1266/500" group-title="Dia a Dia",Escapada
+https://buecrplb01.cienradios.com.ar/1266_Escapada_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1385/500" group-title="Dia a Dia",Estudiando
+https://buecrplb01.cienradios.com.ar/1385_Estudiando_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1210/500" group-title="Dia a Dia",Felicidad
+https://buecrplb01.cienradios.com.ar/1210_Felicidad_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1352/500" group-title="Dia a Dia",Feriado Puente
+https://buecrplb01.cienradios.com.ar/1352_Feriado_Puente_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1358/500" group-title="Dia a Dia",Fernet
+https://buecrplb01.cienradios.com.ar/1358_Fernet_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1251/500" group-title="Dia a Dia",Fiesta de Egresados
+https://buecrplb01.cienradios.com.ar/1251_Fiesta_de_Egresados_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1348/500" group-title="Dia a Dia",Finde Largo
+https://buecrplb01.cienradios.com.ar/1348_Finde_Largo_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1222/500" group-title="Dia a Dia",Gym en Casa
+https://buecrplb01.cienradios.com.ar/1222_Gym_en_Casa_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1344/500" group-title="Dia a Dia",Hashtag
+https://buecrplb01.cienradios.com.ar/1344_Hashtag_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1346/500" group-title="Dia a Dia",Hora Libre
+https://buecrplb01.cienradios.com.ar/1346_Hora_Libre_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1208/500" group-title="Dia a Dia",HOT
+https://buecrplb01.cienradios.com.ar/1208_Hot_Hot_Hot_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1449/500" group-title="Dia a Dia",Invierno
+https://buecrplb01.cienradios.com.ar/1449_invierno_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1257/500" group-title="Dia a Dia",La Argentinidad al Palo
+https://buecrplb01.cienradios.com.ar/1257_La_Argentinidad_al_Palo_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1432/500" group-title="Dia a Dia",Latin Summer
+https://buecrplb01.cienradios.com.ar/1432_Latin_Summer_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1359/500" group-title="Dia a Dia",Libre Soy
+https://buecrplb01.cienradios.com.ar/1359_Libre_Soy_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1116/500" group-title="Dia a Dia",Lluvia
+https://buecrplb01.cienradios.com.ar/1116_Lluvia_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1276/500" group-title="Dia a Dia",Lo + Compartido
+https://buecrplb01.cienradios.com.ar/1276_Lo_Mas_Compartido_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1303/500" group-title="Dia a Dia",Luna Llena
+https://buecrplb01.cienradios.com.ar/1303_Luna_Llena_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1381/500" group-title="Dia a Dia",Me Animo
+https://buecrplb01.cienradios.com.ar/1381_Me_Animo_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1255/500" group-title="Dia a Dia",Me Gusta
+https://buecrplb01.cienradios.com.ar/1255_Me_Gusta_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1241/500" group-title="Dia a Dia",Mis Mejores Amigos
+https://buecrplb01.cienradios.com.ar/1241_Mis_Mejores_Amigos_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1248/500" group-title="Dia a Dia",Mitad de Semana
+https://buecrplb01.cienradios.com.ar/1248_Mitad_de_Semana_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1187/500" group-title="Dia a Dia",Musica para tu Asado
+https://buecrplb01.cienradios.com.ar/1187_Musica_para_tu_Asado_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1357/500" group-title="Dia a Dia",Noche de Amigas
+https://buecrplb01.cienradios.com.ar/1357_Noche_de_Amigas_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1240/500" group-title="Dia a Dia",Noche de Sabado
+https://buecrplb01.cienradios.com.ar/1240_Noche_de_Sabado_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1235/500" group-title="Dia a Dia",Nueva Musica
+https://buecrplb01.cienradios.com.ar/1235_Nueva_Musica_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1400/500" group-title="Dia a Dia",Oficina Anglo
+https://buecrplb01.cienradios.com.ar/1400_Oficina_Anglo_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1379/500" group-title="Dia a Dia",Oficina Latina
+https://buecrplb01.cienradios.com.ar/1379_Oficina_Latina_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1394/500" group-title="Dia a Dia",Oficina Nacional
+https://buecrplb01.cienradios.com.ar/1394_Oficina_Nacional_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1323/500" group-title="Dia a Dia",OMG
+https://buecrplb01.cienradios.com.ar/1323_OMG_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1261/500" group-title="Dia a Dia",Pizza Conmigo
+https://buecrplb01.cienradios.com.ar/1261_Pizza_Conmigo_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1353/500" group-title="Dia a Dia",Pop for Kids
+https://buecrplb01.cienradios.com.ar/1353_Pop_for_Kids_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1262/500" group-title="Dia a Dia",Previa Retro
+https://buecrplb01.cienradios.com.ar/1262_Previa_Retro_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1330/500" group-title="Dia a Dia",Proyectando
+https://buecrplb01.cienradios.com.ar/1330_Proyectando_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1231/500" group-title="Dia a Dia",Quiero Vacaciones
+https://buecrplb01.cienradios.com.ar/1231_Quiero_Vacaciones_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1242/500" group-title="Dia a Dia",Reset
+https://buecrplb01.cienradios.com.ar/1242_Reset_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1399/500" group-title="Dia a Dia",Rocktambulo
+https://buecrplb01.cienradios.com.ar/1399_Rocktambulo_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1173/500" group-title="Dia a Dia",Rollers
+https://buecrplb01.cienradios.com.ar/1173_Rollers_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1387/500" group-title="Dia a Dia",Sin Estridencias
+https://buecrplb01.cienradios.com.ar/1387_Sin_Estridencias_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1375/500" group-title="Dia a Dia",Tarde de Mates
+https://buecrplb01.cienradios.com.ar/1375_Tarde_de_Mates_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1224/500" group-title="Dia a Dia",Te Amo
+https://buecrplb01.cienradios.com.ar/1224_Te_Amo_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1237/500" group-title="Dia a Dia",TGIF
+https://buecrplb01.cienradios.com.ar/1237_TGIF_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1367/500" group-title="Dia a Dia",Trabajador
+https://buecrplb01.cienradios.com.ar/1367_Trabajador_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1217/500" group-title="Dia a Dia",Tranqui
+https://buecrplb01.cienradios.com.ar/1217_Tranqui_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1124/500" group-title="Dia a Dia",Trending Topìc
+https://buecrplb01.cienradios.com.ar/1124_Trending_Topic_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1186/500" group-title="Dia a Dia",Un Fuego
+https://buecrplb01.cienradios.com.ar/1186_UnFuego_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1581/500" group-title="Dia a Dia",Verano
+https://buecrplb01.cienradios.com.ar/1581_Verano_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1393/500" group-title="Dia a Dia",Vinilo
+https://buecrplb01.cienradios.com.ar/1393_Vinilo_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1397/500" group-title="Dia a Dia",Walkman
+https://buecrplb01.cienradios.com.ar/1397_Walkman_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1219/500" group-title="Dia a Dia",Wasapear
+https://buecrplb01.cienradios.com.ar/1219_Wasapear_32000.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://reproductor.cienradios.com.ar/player/Player/ShowImageMobile/1271/500" group-title="Dia a Dia",Ya me Fui
+https://buecrplb01.cienradios.com.ar/1271_Ya_me_Voy_32000.aac
