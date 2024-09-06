@@ -185,6 +185,8 @@ https://one.stweb.tv/one/live/playlist.m3u8
 https://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/60083afdba6eb40016c35954_240p/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIURQPOS.png" group-title="CABA",Urquiza Positiva - 104.5FM - Cd Aut Bs As
 https://streaming1.locucionar.com/proxy/urquizapositiva?mp=/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="CABA",MAS -104.7FM - Cd Aut Bs As
+https://radios.solumedia.com/6018/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIBA1075.png" group-title="CABA",Babel - 104.7FM - Cd Aut Bs As
 http://01.solumedia.com.ar:8362/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---TOP.png" group-title="CABA",TOP - 104.9FM - Cd Aut Bs As
@@ -582,7 +584,9 @@ http://radio13.servidorderadio.net:9360/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAMLS11.png" group-title="AMSB",Provincia - 1270AM - La Plata
 https://streaming.provinciaradio.com.ar:7008/am
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAMLR11.png" group-title="AMSB",Universidad - 1390AM - La Plata
-http://stream.radiouniversidad.unlp.edu.ar:8050/am
+http://163.10.186.71:8001/broadwavehigh.mp3
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-ROCHA.png" group-title="AMSB",Rocha - 1570AM - La Plata
+https://stmvideo1.livecastv.com/radiorocha/radiorocha/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMA1310.png" group-title="AMSB",Master - 1310AM - Lujan
 https://streaming01.shockmedia.com.ar:10687/stream
 
@@ -633,7 +637,7 @@ http://server4.hostradios.com:8378/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-DAIRE.png" group-title="AMSB",Del Aire - 89.5FM - La Plata
 http://streamall.alsolnet.com:443/radiodelaire
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-DIVAS.png" group-title="AMSB"Divas - 89.9FM - La Plata
-https://radios.solumedia.com:6490/stream
+https://stream.xweb.ar:8032/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-KEOPS.png" group-title="AMSB",Keops - 90.1FM - La Plata
 http://streaming2.locucionar.com:8128/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFUTULP.png" group-title="AMSB",Futura - 90.5FM - La Plata
@@ -644,6 +648,8 @@ http://radios.solumedia.com:6348/stream
 http://server.ohradio.com.ar:8246/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIBOOMLP.png" group-title="AMSB",Boomerang - 91.5FM - La Plata
 https://stream.zeno.fm/k6cuzufam48uv
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIESURLP.png" group-title="AMSB",Estacion Sur - 91.7FM - La Plata
+http://88.198.9.174:8196/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-RED92.png" group-title="AMSB",Red92 - 92.1FM - La Plata
 https://radios.solumedia.com:6426/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-TOING.png" group-title="AMSB",Toing - 92.7FM - La Plata
@@ -651,19 +657,15 @@ https://stream.zeno.fm/5d8yf5way4zuv
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAND929.png" group-title="AMSB",Andina - 92.9FM - La Plata
 http://streaming01.shockmedia.com.ar:9526/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIDIA931.png" group-title="AMSB",Diamante - 93.1FM - La Plata
-http://server.ohradio.com.ar:9654/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIUNI937.png" group-title="AMSB",Universal - 93.7FM - La Plata
-http://streaming.zonalaplata.com.ar:8010/;
+https://www.radio93lp.com/videos/los-exitos-0.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--ZETA.png" group-title="AMSB",Zeta - 94.5FM - La Plata
 https://server.ohradio.com.ar/9650/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILASERS.png" group-title="AMSB",Lasers - 94.7FM - La Plata
-http://01.solumedia.com.ar:8092/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--UPCN.png" group-title="AMSB",UPCN - 94.9FM - La Plata
 https://radios.solumedia.com/6008/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-SOFIA.png" group-title="AMSB",Sofia - 95.3FM - La Plata
 http://stream01.insidetec.com:8042/sofia
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-OASIS.png" group-title="AMSB",Oasis - 95.5FM - La Plata
-https://alpha.radioplayer.com.ar:9254/oasisradio
+https://edge01.radiohdvivo.com/stream/oasisradio
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-LA965.png" group-title="AMSB",La 96.5 - 96.5FM - La Plata
 http://streaming.delsurnet.com:8026/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLUSLP.png" group-title="AMSB",Siempre Con Vos - 96.7FM - La Plata
@@ -671,19 +673,19 @@ https://01.solumedia.com.ar:8780/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFMLS11.png" group-title="AMSB",97UNE - 97.1FM - La Plata
 https://streaming.provinciaradio.com.ar:3352/fm
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISEN985.png" group-title="AMSB",Sensacion - 98.5FM - La Plata
-http://cdn.instream.audio:8209/stream
+https://radios.solumedia.com:6572/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIALTAVO.png" group-title="AMSB",Altavoz - 98.7FM - La Plata
 http://server.laradio.online:8143/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIREV989.png" group-title="AMSB",Revoucion - 98.9FM - La Plata
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIREV989.png" group-title="AMSB",Revolucion - 98.9FM - La Plata
 http://streaming01.shockmedia.com.ar:9878/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--LA99.png" group-title="AMSB",Exito - 99.1FM - La Plata
 http://radio.solumedia.com.ar:8178/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-SENDA.png" group-title="AMSB",Senda Antigua - 99.3FM - La Plata
-https://tolkien.republicahosting.net:1385/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINUEAIR.png" group-title="AMSB",Nuevos Aires - 99.7FM - La Plata
 https://server.radiostreaming.com.ar/8718/stream?1712008858715
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILAREDO.png" group-title="AMSB",La Redonda - 100.3FM - La Plata
 http://01.solumedia.com.ar:8290/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICNN950.png" group-title="AMSB",CNN - 100.9FM - La Plata
+https://streaming01.shockmedia.com.ar/8206/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="AMSB",Buen Samaritano - 101.7FM - La Plata
 https://radios.solumedia.com:10903/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-MIXLP.png" group-title="AMSB",Mix- 102.7FM - La Plata
@@ -694,16 +696,14 @@ https://01.solumedia.com.ar:8612/stream
 https://s8.stweb.tv/cielo/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILACOOL.png" group-title="AMSB",COOL - 103.7FM - La Plata
 https://radios.solumedia.com:10805/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIALELUY.png" group-title="AMSB",Red Aleluya - 104.5FM - La Plata
-https://server.ohradio.com.ar:7112/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIGRAVLP.png" group-title="AMSB",Gravity - 105.3FM - La Plata
-https://01.solumedia.com.ar:8094/stream
+https://stream.xweb.ar:8024/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLIBRE.png" group-title="AMSB",Red Puerto Libre - 105.9FM - La Plata
 http://181.171.117.10:8000/;
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICLASSI.png" group-title="AMSB",Classique - 106.5FM - La Plata
 http://radio.solumedia.com.ar:8562/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFMLR11.png" group-title="AMSB",Universidad - 107.5FM - La Plata
-http://stream.radiouniversidad.unlp.edu.ar:8050/am
+http://163.10.186.70:8002/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--UNLU.png" group-title="AMSB",UNLU - 88.9FM - Lujan
 http://144.217.30.219:8043/;
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILAMEDI.png" group-title="AMSB",La Medi - 90.7FM - Lujan
