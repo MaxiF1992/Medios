@@ -636,7 +636,7 @@ http://radio02.ferozo.com:8358/stream
 http://server4.hostradios.com:8378/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-DAIRE.png" group-title="AMSB",Del Aire - 89.5FM - La Plata
 http://streamall.alsolnet.com:443/radiodelaire
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-DIVAS.png" group-title="AMSB"Divas - 89.9FM - La Plata
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-DIVAS.png" group-title="AMSB",Divas - 89.9FM - La Plata
 https://stream.xweb.ar:8032/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-KEOPS.png" group-title="AMSB",Keops - 90.1FM - La Plata
 http://streaming2.locucionar.com:8128/stream
