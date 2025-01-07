@@ -162,7 +162,7 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AA
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILAMILA.png" group-title="CABA",La Milagrosa - 100.9FM - Cd Aut Bs As
 https://streaming.evolucionstreaming.com:10941/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRL318.png" group-title="CABA",LRL318 Latina - 101.1FM - Cd Aut Bs As
-https://stream-gtlc.telecentro.net.ar/hls/latinatvhls/0/playlist.m3u8
+https://stream-gtlc.telecentro.net.ar/hls/radiolatinahls/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIIB1013.png" group-title="CABA",Impacto - 101.3FM - Cd Aut Bs As
 http://streaming.radiosenlinea.com.ar:8428/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---POP.png" group-title="CABA",Pop - 101.5FM - Cd Aut Bs As
