@@ -56,7 +56,7 @@ https://jireh-1-hls-audio-ar-isp.dps.live/hls-audio/4e252a65837b69e349d5d8c10331
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-ECOAM.png" group-title="CABA",LRI224 Cadena Eco - 1120AM - Cd Aut Bs As
 https://stream.zeno.fm/uv3vkhw2qvduv
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAM1300.png" group-title="CABA",La Salada - 1300AM - Cd Aut Bs As
-https://alpha.radioplayer.com.ar:9288/am1300lasalada
+https://edge01.radiohdvivo.com/stream/am1300lasalada
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS6.png" group-title="CABA",LS6 Buenos Aires - 1350AM - Cd Aut Bs As
 https://nl.digitalrm.pt:8052/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---RPO.png" group-title="CABA",Punto - 1400AM - Cd Aut Bs As
