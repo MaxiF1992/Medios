@@ -71,7 +71,7 @@ https://stream.radiojar.com/qkxht62hy8hvv
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad35
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI325.png" group-title="CABA",LRI325 Soldados - 87.5FM - Cd Aut Bs As
 http://radio02.ferozo.com:8150/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI310.png" group-title="CABA",LRI325 UBA - 87.9FM - Cd Aut Bs As
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRL310.png" group-title="CABA",LRL310 UBA - 87.9FM - Cd Aut Bs As
 https://radiostreaming.rec.uba.ar:8000/LiveRadioUBA?1734787071768
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-SURBA.png" group-title="CABA",Sur - 88.3FM - Cd Aut Bs As
 https://01.solumedia.com.ar:8020/stream
