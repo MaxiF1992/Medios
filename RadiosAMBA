@@ -75,12 +75,18 @@ http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad35
 http://radio02.ferozo.com:8150/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRL310.png" group-title="CABA",LRL310 UBA - 87.9FM - Cd Aut Bs As
 https://radiostreaming.rec.uba.ar:8000/LiveRadioUBA?1734787071768
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISOL883.png" group-title="CABA",Sol - 88.3FM - Cd Aut Bs As
+https://sonicpanel.hostradios.com/10060/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-SURBA.png" group-title="CABA",Sur - 88.3FM - Cd Aut Bs As
 https://01.solumedia.com.ar:8020/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-MARIA.png" group-title="CABA",LRL309 Radio Maria CABA - 88.5FM - Cd Aut Bs As
 http://dreamsiteradiocp2.com:8008/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILTRIBU.png" group-title="CABA",La Tribu - 88.7FM - Cd Aut Bs As
 http://radio01.ferozo.com:8800/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAMBIEN.png" group-title="CABA",Ambiente - 88.9FM - Cd Aut Bs As
+https://radios.solumedia.com/6016/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIBENTRI.png" group-title="CABA",Bendita Trinidad - 88.9FM - Cd Aut Bs As
+https://masstreaming.online/8020/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIBLACKI.png" group-title="CABA",Blackie - 89.1FM - Cd Aut Bs As
 http://playerservices.streamtheworld.com/api/livestream-redirect/BLACKIE_89_1.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIGRA893.png" group-title="CABA",Grafica - 89.3FM - Cd Aut Bs As
@@ -93,14 +99,14 @@ https://server1.stweb.tv/rcvos/live/playlist.m3u8
 http://s24.myradiostream.com/14984/listen.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIDEL903.png" group-title="CABA",LRL328 Delta - 90.3FM - Cd Aut Bs As
 http://cdn.instream.audio:9069/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPAN907.png" group-title="CABA",Panamericana - 90.7FM - Cd Aut Bs As
-http://streaming.radiosenlinea.com.ar:8416/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRL307.png" group-title="CABA",UB - 90.9FM - Cd Aut Bs As
+https://streaming5.locucionar.com/proxy/fmub909?mp=/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICULMUS.png" group-title="CABA",Amadeus / Cultura Musical - 91.1FM - Cd Aut Bs As
 http://streamingradiolinks.xyz:8484/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISOLDAT.png" group-title="CABA",Soldati - 91.3FM - Cd Aut Bs As
 http://streaming.escuchanosonline.com:8040/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMAS915.png" group-title="CABA",Mas - 91.5FM - Cd Aut Bs As
-https://alpha.radioplayer.com.ar:9266/fmmas915
+https://frontend.radioenvivo.com/fmmas915/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMANTRA.png" group-title="CABA",Mantra - 91.9FM - Cd Aut Bs As
 http://streamlky.alsolnet.com:443/mantrafm
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---AMA.png" group-title="CABA",Ama - 92.3FM - Cd Aut Bs As
