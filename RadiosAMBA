@@ -3,14 +3,12 @@
 https://ipanel.instream.audio:7000/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---CW1.png" group-title="CABA",CW1 Colonia - Cd Aut Bs As
 http://playerservices.streamtheworld.com/api/livestream-redirect/COLONIAAAC_SC
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-AM570.png" group-title="CABA",Argentina - 570AM - Cd Aut Bs As
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-AM650.png" group-title="CABA",Belgrano - 570AM - Cd Aut Bs As
 http://server.laradio.online:25224/live.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="CABA",LS4 Continental - 590AM - Cd Aut Bs As
 https://frontend.radiohdvivo.com/continental/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS5.png" group-title="CABA",LS5 Rivadavia - 630AM - Cd Aut Bs As
 http://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC_SC
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-AM650.png" group-title="CABA",Belgrano - 650AM - Cd Aut Bs As
-https://server.laradio.online:15223/live.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---K24.png" group-title="CABA",K24 en Radio - 690AM - Cd Aut Bs As
 https://tus.radios.ar/8040/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----10.png" group-title="CABA",LRL202 Radio 10 - 710AM - Cd Aut Bs As
@@ -53,8 +51,12 @@ https://media.radios.ar:1110/stream
 http://3.223.187.189:7130/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LR9.png" group-title="CABA",LR9 Perfil - 1190AM - Cd Aut Bs As
 https://jireh-1-hls-audio-ar-isp.dps.live/hls-audio/4e252a65837b69e349d5d8c1033152b4/perfil/playlist/manifest/gotardisz/audio/now/livestream1.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-ECOAM.png" group-title="CABA",LRI224 Cadena Eco - 1120AM - Cd Aut Bs As
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-ECOAM.png" group-title="CABA",LRI224 Cadena Eco - 1220AM - Cd Aut Bs As
 https://stream.zeno.fm/uv3vkhw2qvduv
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAM1230.png" group-title="CABA",Creativa - 1230AM - Cd Aut Bs As
+https://streaming3.locucionar.com/proxy/creativaonline?mp=/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--CUNO.png" group-title="CABA",Cadena Uno - 1240AM - Cd Aut Bs As
+https://radiosar.com:8032/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAM1300.png" group-title="CABA",La Salada - 1300AM - Cd Aut Bs As
 https://edge01.radiohdvivo.com/stream/am1300lasalada
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS6.png" group-title="CABA",LS6 Buenos Aires - 1350AM - Cd Aut Bs As
