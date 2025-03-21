@@ -151,8 +151,12 @@ https://ice2.edge-apps.net/radio1_high-20057.audio
 https://vale.stweb.tv/vale/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="CABA",NOW - 97.9FM - Cd Aut Bs As
 https://ipanel.instream.audio:7002/stream?_=1901ddc2448
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI981CON.png" group-title="CABA",Constelacion - 98.1FM - Cd Aut Bs As
+https://streaming.radiosenlinea.com.ar/8412/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRL312.png" group-title="CABA",LRL312 MEGA - 98.3FM - Cd Aut Bs As
 https://mega.stweb.tv/mega983/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-RSHOW.png" group-title="CABA",Show - 98.5FM - Cd Aut Bs As
+https://radiosar.com:8074/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRA339.png" group-title="CABA",LRA39 Radio Nacional Folclorica - 98.7FM - Cd Aut Bs As
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad38
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="CABA",AYP75 Cadena 3 Bs.Aires - 99.1FM - Cd Aut Bs As
@@ -174,7 +178,7 @@ https://stream-gtlc.telecentro.net.ar/hls/radiolatinahls/0/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIIB1013.png" group-title="CABA",Impacto - 101.3FM - Cd Aut Bs As
 http://streaming.radiosenlinea.com.ar:8428/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---POP.png" group-title="CABA",Pop - 101.5FM - Cd Aut Bs As
-https://ny2.stweb.tv/popradio/live/playlist.m3u8
+https://popradio.stweb.tv/popradio/live/chunks.m3u8?nimblesessionid=1080743664
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIHO1019.png" group-title="CABA",Horizonte - 101.9FM - Cd Aut Bs As
 https://redirector.dps.live/hls-audio/4e252a65837b69e349d5d8c1033152b4/hztear/playlist/manifest/gotardisz/audio/now/livestream1.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILAPATR.png" group-title="CABA",La Patriada - 102.1FM - Cd Aut Bs As
@@ -208,7 +212,7 @@ http://vivo.parquevida.com/radio/8000/radio.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIALELUY.png" group-title="CABA",LRL727 Red Aleluya - 106.3FM - Cd Aut Bs As
 https://nl.digitalrm.pt:8050/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMUNSUR.png" group-title="CABA",Mundo SUR - 106.5FM - Cd Aut Bs As
-http://streaming01.shockmedia.com.ar:10605/stream
+https://streaming01.shockmedia.com.ar:10605/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISEMILL.png" group-title="CABA",Semilla - 106.5FM - Cd Aut Bs As
 https://sslstream.online:7091/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMILENI.png" group-title="CABA",Milenium - 106.7FM - Cd Aut Bs As
