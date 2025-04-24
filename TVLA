@@ -1,3 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="CABA",LS84
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="CABA",34.1
 https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1745523787~acl=%2f*~data=hdntl~hmac=6b7ab2acacd4183c503b00b62ad469b76ef2cc4c0002a8e3e20a02dbf84d9d52/master-mtlf.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="CABA",27.2
+https://unlimited1-buenosaires.dps.live:443/nettv/nettv.smil/nettv/livestream1/chunks.m3u8?nimblesessionid=89958626
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="CABA",27.1
+https://jireh-1-hls-video-ar-isp.dps.live/hls-video/c54ac2799874375c81c1672abb700870537c5223/bravo/bravo.smil/bravo/livestream1/chunks.m3u8?dpssid=b21863666982680a8ed440951&sid=ba5t1l1xb21729024458680a8edd844d0&ndvc=0
+
+
