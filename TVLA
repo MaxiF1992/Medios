@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="CABA",34.1
-https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/master-mtlf.m3u8
+https://telefeappmitelefe1.akamaized.net:443/hls/live/2037985/appmitelefe/TOK/hdntl=exp=1745697320~acl=%2f*~data=hdntl~hmac=7a9cfdcd1aeaab4e2620cd92dcac08e9dc282bf2eb34cc18389d5f371b37e70f/master-mtlf.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="CABA",33.1
 https://live-01-02-eltrece.vodgc.net:443/eltrecetv/tracks-v2a1/mono.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="CABA",35.1
