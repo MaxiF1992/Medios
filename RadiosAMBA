@@ -620,7 +620,7 @@ http://streaming.escuchanosonline.com:8508/stream
 http://server.laradio.online:25474/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIVOS955.png" group-title="AMSB",VOS - 95.5FM - Coronel Brandsen
 https://alpha.radioplayer.com.ar:9106/radiovos955
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--RIOE.png" group-title="AMSB",Rio - 89.7FM - Ensenada
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="AMSB",Rio - 89.7FM - Ensenada
 http://server.ohradio.com.ar:9768/;
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="AMSB",Ciudades - 96.3FM - Ensenada
 https://streaming1.locucionar.com/proxy/radio963?mp=/stream
@@ -696,10 +696,14 @@ https://01.solumedia.com.ar:8612/stream
 https://s8.stweb.tv/cielo/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILACOOL.png" group-title="AMSB",COOL - 103.7FM - La Plata
 https://radios.solumedia.com:10805/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--DALE.png" group-title="AMSB",Dale - 104.1FM - La Plata
+https://radios.solumedia.com:6216/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIGRAVLP.png" group-title="AMSB",Gravity - 105.3FM - La Plata
 https://stream.xweb.ar:8024/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLIBRE.png" group-title="AMSB",Red Puerto Libre - 105.9FM - La Plata
-http://181.171.117.10:8000/;
+http://181.228.126.177:8000/;stream.mp3?_=1
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIRNAUTA.png" group-title="AMSB",Radionauta - 106.3FM - La Plata
+https://stream.codigosur.org/radionauta.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICLASSI.png" group-title="AMSB",Classique - 106.5FM - La Plata
 http://radio.solumedia.com.ar:8562/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFMLR11.png" group-title="AMSB",Universidad - 107.5FM - La Plata
