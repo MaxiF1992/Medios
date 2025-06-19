@@ -584,7 +584,7 @@ https://streaming.provinciaradio.com.ar:7008/am
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAMLR11.png" group-title="AMSB",Universidad - 1390AM - La Plata
 http://163.10.186.71:8001/broadwavehigh.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-ROCHA.png" group-title="AMSB",Rocha - 1570AM - La Plata
-https://stmvideo1.livecastv.com/radiorocha/radiorocha/playlist.m3u8
+https://stmv4.questreaming.com/radiorocha/radiorocha/chunklist_w588774482.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMA1310.png" group-title="AMSB",Master - 1310AM - Lujan
 https://streaming01.shockmedia.com.ar:10687/stream
 
