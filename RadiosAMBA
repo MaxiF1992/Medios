@@ -637,9 +637,9 @@ http://streamer.fmfutura.com.ar:8000/vivo.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILPLATA.png" group-title="AMSB",La Plata - 90.9FM - La Plata
 http://radios.solumedia.com:6348/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICAPILP.png" group-title="AMSB",Capital - 91.3FM - La Plata
-http://server.ohradio.com.ar:8246/stream
+https://frontend.radiohdvivo.com/capital913/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIBOOMLP.png" group-title="AMSB",Boomerang - 91.5FM - La Plata
-https://stream.zeno.fm/k6cuzufam48uv
+https://streaming01.radiosenlinea.com.ar:10876/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIESURLP.png" group-title="AMSB",Estacion Sur - 91.7FM - La Plata
 http://88.198.9.174:8196/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-RED92.png" group-title="AMSB",Red92 - 92.1FM - La Plata
