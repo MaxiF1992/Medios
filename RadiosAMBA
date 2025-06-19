@@ -3,7 +3,7 @@
 https://ipanel.instream.audio:7000/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---CW1.png" group-title="CABA",CW1 Colonia - Cd Aut Bs As
 http://playerservices.streamtheworld.com/api/livestream-redirect/COLONIAAAC_SC
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-AM650.png" group-title="CABA",Belgrano - 570AM - Cd Aut Bs As
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-AM570.png" group-title="CABA",Belgrano - 570AM - Cd Aut Bs As
 http://server.laradio.online:25224/live.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="CABA",LS4 Continental - 590AM - Cd Aut Bs As
 https://frontend.radiohdvivo.com/continental/live
