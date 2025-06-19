@@ -649,15 +649,15 @@ https://stream.zeno.fm/5d8yf5way4zuv
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAND929.png" group-title="AMSB",Andina - 92.9FM - La Plata
 http://streaming01.shockmedia.com.ar:9526/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIDIA931.png" group-title="AMSB",Diamante - 93.1FM - La Plata
-https://www.radio93lp.com/videos/los-exitos-0.mp3
+https://stream.xweb.ar/8094/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--ZETA.png" group-title="AMSB",Zeta - 94.5FM - La Plata
-https://server.ohradio.com.ar/9650/stream
+https://stream.xweb.ar/8082/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--UPCN.png" group-title="AMSB",UPCN - 94.9FM - La Plata
 https://radios.solumedia.com/6008/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-SOFIA.png" group-title="AMSB",Sofia - 95.3FM - La Plata
 http://stream01.insidetec.com:8042/sofia
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-OASIS.png" group-title="AMSB",Oasis - 95.5FM - La Plata
-https://edge01.radiohdvivo.com/stream/oasisradio
+https://frontend.radiohdvivo.com/oasisradio/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-LA965.png" group-title="AMSB",La 96.5 - 96.5FM - La Plata
 http://streaming.delsurnet.com:8026/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLUSLP.png" group-title="AMSB",Siempre Con Vos - 96.7FM - La Plata
@@ -676,8 +676,6 @@ http://radio.solumedia.com.ar:8178/stream
 https://server.radiostreaming.com.ar/8718/stream?1712008858715
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILAREDO.png" group-title="AMSB",La Redonda - 100.3FM - La Plata
 http://01.solumedia.com.ar:8290/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICNN950.png" group-title="AMSB",CNN - 100.9FM - La Plata
-https://streaming01.shockmedia.com.ar/8206/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="AMSB",Buen Samaritano - 101.7FM - La Plata
 https://radios.solumedia.com:10903/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-MIXLP.png" group-title="AMSB",Mix- 102.7FM - La Plata
