@@ -624,16 +624,10 @@ https://alpha.radioplayer.com.ar:9106/radiovos955
 http://server.ohradio.com.ar:9768/;
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="AMSB",Ciudades - 96.3FM - Ensenada
 https://streaming1.locucionar.com/proxy/radio963?mp=/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAUT881.png" group-title="AMSB",Autentica - 88.1FM - La Plata
-http://radio01.ferozo.com:9324/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-FM883.png" group-title="AMSB",La 88.3 - 88.3FM - La Plata
-http://server.radiostreaming.com.ar:8268/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICRIOLP.png" group-title="AMSB",Cadena Rio - 88.7FM - La Plata
-http://radio02.ferozo.com:8358/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIRAROCK.png" group-title="AMSB",Raices - 88.9FM - La Plata
-http://server4.hostradios.com:8378/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-DAIRE.png" group-title="AMSB",Del Aire - 89.5FM - La Plata
-http://streamall.alsolnet.com:443/radiodelaire
+https://radio02.ferozo.com/proxy/ra02001342?mp=/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILUZ897.png" group-title="AMSB",Luz - 89.7FM - La Plata
+https://streaming3.locucionar.com/proxy/radioluzlaplata?mp=/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-DIVAS.png" group-title="AMSB",Divas - 89.9FM - La Plata
 https://stream.xweb.ar:8032/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-KEOPS.png" group-title="AMSB",Keops - 90.1FM - La Plata
