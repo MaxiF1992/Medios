@@ -650,7 +650,15 @@ https://stream.zeno.fm/5d8yf5way4zuv
 http://streaming01.shockmedia.com.ar:9526/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIDIA931.png" group-title="AMSB",Diamante - 93.1FM - La Plata
 https://stream.xweb.ar/8094/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--ZETA.png" group-title="AMSB",Zeta - 94.5FM - La Plata
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICLA933.png" group-title="AMSB",Ciudad - 93.3FM - La Plata
+https://streaming01.shockmedia.com.ar/9270/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIUNI937.png" group-title="AMSB",Universal - 93.7FM - La Plata
+http://streaming.zonalaplata.com.ar:8010/;
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICUA939.png" group-title="AMSB",Cualidades - 93.9FM - La Plata
+https://radios.streamingdha.com.ar:9990/;
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIDIA931.png" group-title="AMSB",Altavoz Clasicos - 94.1FM - La Plata
+https://server.laradio.online/proxy/eduardo_cortes?mp=/stream&1750369611287
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIALTAVO.png" group-title="AMSB",Zeta - 94.5FM - La Plata
 https://stream.xweb.ar/8082/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--UPCN.png" group-title="AMSB",UPCN - 94.9FM - La Plata
 https://radios.solumedia.com/6008/stream
@@ -664,6 +672,10 @@ http://streaming.delsurnet.com:8026/stream
 https://01.solumedia.com.ar:8780/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFMLS11.png" group-title="AMSB",97UNE - 97.1FM - La Plata
 https://streaming.provinciaradio.com.ar:3352/fm
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--POGO.png" group-title="AMSB",Pogo - 97.3FM - La Plata
+https://01.solumedia.com.ar:8340/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICRE977.png" group-title="AMSB",Creacion - 97.7FM - La Plata
+https://server.radiostreaming.com.ar/8522/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISEN985.png" group-title="AMSB",Sensacion - 98.5FM - La Plata
 https://radios.solumedia.com:6572/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIALTAVO.png" group-title="AMSB",Altavoz - 98.7FM - La Plata
