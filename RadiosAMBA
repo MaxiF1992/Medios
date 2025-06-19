@@ -192,7 +192,7 @@ https://radios.solumedia.com/6198/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIDSPORT.png" group-title="CABA",Dsports Radio - 103.1FM - Cd Aut Bs As
 http://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIO_SC
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITRANCE.png" group-title="CABA",Trance - 103.3FM - Cd Aut Bs As
-http://streaming01.digitalwebs.com.ar:8100/stream
+https://streaming01.shockmedia.com.ar:10262/;
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI711.png" group-title="CABA",LRI711 One - 103.7FM - Cd Aut Bs As
 https://one.stweb.tv/one/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIURBPLY.png" group-title="CABA",Urbana Play - 104.3FM - Cd Aut Bs As
@@ -204,7 +204,7 @@ https://radios.solumedia.com/6018/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIBA1075.png" group-title="CABA",Babel - 104.7FM - Cd Aut Bs As
 http://01.solumedia.com.ar:8362/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILN1049.png" group-title="CABA",La Nacion + Música - 104.9FM - Cd Aut Bs As
-https://radios.streamingdha.com.ar/8060/stream
+https://stream.radio.co/s2ed3bec0a/listen
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRL311.png" group-title="CABA",LRL311 Parroquial - 105.1FM - Cd Aut Bs As
 https://server4.hostradios.com/8678/stream;
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-LOS40.png" group-title="CABA",LOS40 Argentina - 105.5FM - Cd Aut Bs As
@@ -225,6 +225,8 @@ http://s1.radiosnethosting.com:9628/stream
 https://radio02.ferozo.com/proxy/ra02001516?mp=/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="CABA",RE - 107.3FM - Cd Aut Bs As
 https://ipanel.instream.audio:7014/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="CABA",Más - 107.5FM - Cd Aut Bs As
+https://frontend.radiohdvivo.com/mas1075/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIBERLIN.png" group-title="CABA",Berlin - 107.7FM - Cd Aut Bs As
 https://s8.stweb.tv/berlin/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI710.png" group-title="CABA",LRI710 El Observador - 107.9FM - Cd Aut Bs As
