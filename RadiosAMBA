@@ -57,6 +57,8 @@ https://jireh-1-hls-audio-ar-isp.dps.live/hls-audio/4e252a65837b69e349d5d8c10331
 https://stream.zeno.fm/uv3vkhw2qvduv
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAM1230.png" group-title="CABA",Creativa - 1230AM - Cd Aut Bs As
 https://streaming3.locucionar.com/proxy/creativaonline?mp=/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--CUNO.png" group-title="CABA",Cadena Uno - 1240AM - Cd Aut Bs As
+https://radiosar.com:8032/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS6.png" group-title="CABA",LS6 Buenos Aires - 1350AM - Cd Aut Bs As
 https://nl.digitalrm.pt:8052/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---RPO.png" group-title="CABA",Punto - 1400AM - Cd Aut Bs As
@@ -65,8 +67,6 @@ http://server3.veemesoft.com.ar:26619/stream
 https://us9.maindigitalstream.com/ssl/7192
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-E1550.png" group-title="CABA",Estacion 1550 - 1550AM - Cd Aut Bs As
 http://streaming2.locucionar.com:8312/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-740AM.png" group-title="CABA",Rebelde - 1570AM - Cd Aut Bs As
-https://stream.radiojar.com/qkxht62hy8hvv
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-LRA31.png" group-title="CABA",LRA35 RAE - 06060OC - Cd Aut Bs As
 http://sa.mp3.icecast.magma.edge-access.net:7200/sc_rad35
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI325.png" group-title="CABA",LRI325 Soldados - 87.5FM - Cd Aut Bs As
@@ -93,7 +93,7 @@ http://radio13.servidorderadio.net:8110/stream
 https://playerservices.streamtheworld.com/api/livestream-redirect/FM_LLIKE.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIRCV899.png" group-title="CABA",Con Vos - 89.9FM - Cd Aut Bs As
 https://server1.stweb.tv/rcvos/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILABOCA.png" group-title="CABA",La Boca - 90.1 - Cd Aut Bs As
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILABOCA.png" group-title="CABA",La Boca - 90.1fm - Cd Aut Bs As
 http://s24.myradiostream.com/14984/listen.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIDEL903.png" group-title="CABA",LRL328 Delta - 90.3FM - Cd Aut Bs As
 http://cdn.instream.audio:9069/stream
@@ -135,12 +135,10 @@ http://69.64.46.123:8057/stream
 http://playerservices.streamtheworld.com/api/livestream-redirect/METROAAC_SC
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIHOR953.png" group-title="CABA",HZT - 95.3FM - Cd Aut Bs As
 https://streaming01.shockmedia.com.ar/8440/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICON955.png" group-title="CABA",Concepto - 95.5FM - Cd Aut Bs As
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICON955.png" group-title="CABA",Sputnik - 95.5FM - Cd Aut Bs As
 http://radios.solumedia.com:6002/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIROCPOP.png" group-title="CABA",Rock&Pop - 95.9FM - Cd Aut Bs As
 http://playerservices.streamtheworld.com/api/livestream-redirect/ROCKANDPOP_SC
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRL331.png" group-title="CABA",Jai - 96.3FM - Cd Aut Bs As
-https://vivo.solumedia.com:19360/jaitv/jaitv.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAZULBA.png" group-title="CABA",Azul - 96.5FM - Cd Aut Bs As
 https://streaming01.shockmedia.com.ar:10916/stream?icy=http
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---Z80.png" group-title="CABA",Z80 - 96.5FM - Cd Aut Bs As
@@ -163,8 +161,6 @@ https://radiosar.com:8074/stream
 https://sa.mp3.icecast.magma.edge-access.net/sc_rad38
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LV3.png" group-title="CABA",AYP75 Cadena 3 Bs.Aires - 99.1FM - Cd Aut Bs As
 https://liveradio.mediainbox.net/radio3.mp3
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILIB993.png" group-title="CABA",Libre - 99.3FM - Cd Aut Bs As
-http://01.solumedia.com.ar:8722/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRL317.png" group-title="CABA",LRL317 Federal - 99.5FM - Cd Aut Bs As
 https://sonic.host-live.com/8176/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="CABA",Metropolitana - 99.7FM - Cd Aut Bs As
@@ -177,8 +173,6 @@ https://radios.solumedia.com/6076/stream
 http://playerservices.streamtheworld.com/api/livestream-redirect/BLUE_FM_100_7AAC_SC
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRL318.png" group-title="CABA",LRL318 Latina - 101.1FM - Cd Aut Bs As
 https://stream-gtlc.telecentro.net.ar/hls/radiolatinahls/0/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIIB1013.png" group-title="CABA",Impacto - 101.3FM - Cd Aut Bs As
-http://streaming.radiosenlinea.com.ar:8428/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---POP.png" group-title="CABA",Pop - 101.5FM - Cd Aut Bs As
 https://popradio.stweb.tv/popradio/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIHO1019.png" group-title="CABA",Horizonte - 101.9FM - Cd Aut Bs As
@@ -199,8 +193,6 @@ https://one.stweb.tv/one/live/playlist.m3u8
 https://cdn.instream.audio/:9660/stream?in_device_id=wp-1169aa9f-7aea-4535-9311-5b06f65cb956
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIURQPOS.png" group-title="CABA",Urquiza Positiva - 104.5FM - Cd Aut Bs As
 https://streaming1.locucionar.com/proxy/urquizapositiva?mp=/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="CABA",Es GOL - 104.7FM - Cd Aut Bs As
-https://radios.solumedia.com/6018/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIBA1075.png" group-title="CABA",Babel - 104.7FM - Cd Aut Bs As
 http://01.solumedia.com.ar:8362/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILN1049.png" group-title="CABA",La Nacion + Música - 104.9FM - Cd Aut Bs As
