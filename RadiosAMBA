@@ -352,10 +352,14 @@ http://streaming01.dwservers.net:8300/stream
 https://streaming01.shockmedia.com.ar:10480/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIUNIVRC.png" group-title="AMBA",Universal - 105.9FM - El Palomar
 http://streaming01.shockmedia.com.ar:9312/;
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIUNIVRC.png" group-title="AMBA",El Talar - 104.5FM - El Talar
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-TALAR.png" group-title="AMBA",El Talar - 104.5FM - El Talar
 http://sonic.host-live.com/8026/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMUNIFV.png" group-title="AMBA",Municipal - 87.9FM - Florencio Varela
 http://stream.codigosur.org:8000/radiomunicipalfv.mp3
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--UNAJ.png" group-title="AMBA",UNAJ - 88.5FM - Florencio Varela
+https://vps-c0159cbc.vps.ovh.ca/14048/;
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIJUVENT.png" group-title="AMBA",Juventud - 90.1FM - Florencio Varela
+https://radiosar.com:8034/stream?icy=http
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIEMPRES.png" group-title="AMBA",Empresaria - 92.5FM - Florencio Varela
 http://ohradio.cc/8310/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---X95.png" group-title="AMBA",X95 - 95.7FM - Florencio Varela
@@ -368,32 +372,48 @@ http://streaming01.shockmedia.com.ar:9010/stream
 http://streaming1.locucionar.com:12778/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIOK1057.png" group-title="AMBA",OK - 105.7FM - Florencio Varela
 http://radio01.ferozo.com:9288/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--OPEN.png" group-title="AMBA",Open - 99.3FM - General Pacheco
-https://streaming01.shockmedia.com.ar:10469/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIALVARE.png" group-title="AMBA",Alvarez - 100.9FM - Francisco Alvarez
+http://streaming01.radiosenlinea.com.ar/8902/stream/;type=mp3
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIECL997.png" group-title="AMBA",Eclipse - 99.7FM - General Pacheco
 https://01.solumedia.com.ar:8328/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-LAMIX.png" group-title="AMBA",La Mix - 104.1FM - Glew
-https://sc.dattalive.com:10667/stream
+https://sc.host-live.com:10667/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-RHEMA.png" group-title="AMBA",Rhema - 102.1FM - Gonzalez Catan
 https://frontend.radiohdvivo.com/rhemafm1021/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINA1003.png" group-title="AMBA",La Nueva Amiga - 100.3FM - Grand Bourg
 http://streaming2.locucionar.com:8862/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIRC1001.png" group-title="AMBA",Retro - 100.1FM - Gregorio de Laferrere
+https://server.laradio.online/proxy/alejandro_montes?mp=/stream&1757022373874
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---RAC.png" group-title="AMBA",Arraigo - 102.7FM - Gregorio de Laferrere
+https://ohradio.cc/9850/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITORFUE.png" group-title="AMBA",Torre Fuerte - 107.7FM - Gregorio de Laferrere
+https://chino.republicahosting.com:1993/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIGIGOWA.png" group-title="AMBA",Gigowatt - 89.3FM - Guernica
 http://server.laradio.online:25345/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIBOX989.png" group-title="AMBA",BOX - 98.9FM - Guernica
+http://streaming6.locucionar.com:24148/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITEMPLE.png" group-title="AMBA",Temple - 93.3FM - Haedo
 http://server1.veemesoft.com.ar:6374/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-OESTE.png" group-title="AMBA",Oeste - 106.9FM - Haedo
 http://streaming3.locucionar.com:17464/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICLA981.png" group-title="AMBA",Clasic - 98.1FM - Hurlingham
 https://stream.zeno.fm/kuynhgvn6movv
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMS2000.png" group-title="AMBA",Mision 2000 - 90.9FM - Isidro Casanova
+https://genexservicios.com:8282/;?1757023285050
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINOVAIC.png" group-title="AMBA",Nova - 91.9FM - Isidro Casanova
+https://server4.hostradios.com:7308/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFILADE.png" group-title="AMBA",Filadelfia - 97.3FM - Isidro Casanova
 https://kappa.radioplayer.com.ar:9170/filadelfia973
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINAR885.png" group-title="AMBA",Nueva Argentina - 88.5FM - Ituzaingo
 https://01.solumedia.com.ar:8040/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIITU893.png" group-title="AMBA",La Radio Publica del Oeste - 89.3FM - Ituzaingo
 https://01.solumedia.com.ar:8308/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIZONYDO.png" group-title="AMBA",Zonydo XXI - 97.3FM - Ituzaingo
-http://streaming2.locucionar.com:9155/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITUM909.png" group-title="AMBA",Tu Musica - 90.9FM - Jose C. Paz
+https://emisora.radiosplay.com.ar/8040/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIEYV977.png" group-title="AMBA",Esperanza y Vida - 97.7FM - Jose C. Paz
+https://streaming6.locucionar.com:24008/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="AMBA",Del Paseo - 98.5FM - Jose C. Paz
+https://ssl.veemesoft.com.ar/806c92633b9510678493
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICON989.png" group-title="AMBA",Contemporanea - 98.9FM - Jose C. Paz
 http://streaming3.locucionar.com:16252/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="AMBA",Tinkunaco - 107.3FM - Jose C. Paz
@@ -401,27 +421,35 @@ http://stream.codigosur.org:8000/fm-tinkunaco.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI423.png" group-title="AMBA",Raices - 88.5FM - Jose Leon Suarez
 https://radiolinksmedia.net.ar/8056/;
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIREC895.png" group-title="AMBA",Reconquista - 89.5FM - Jose Leon Suarez
-http://aler.org:8000/radiofmreconquista.ogg
+http://sslstream.online/8340/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIESPACI.png" group-title="AMBA",Espacio - 88.7FM - Lanus
 http://servidor.ilive.com.ar:8654/;
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--UNLA.png" group-title="AMBA",Megafon - 92.1FM - Lanus
-https://audio.bustream.com:8090/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--UNLA.png" group-title="AMBA",UNLA - 92.1FM - Lanus
+https://78aa0aba339d.sn.mynetname.net/listen/radio_unla/radio.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-SECLA.png" group-title="AMBA",SECLA - 106.1FM - Lanus
 http://sh2.radioonlinehd.com:8056/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--REMO.png" group-title="AMBA",Remo - 91.9FM - Loma Hermosa
-http://server.ohradio.com.ar:9774/stream
+https://ohradio.cc/9774/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--REMO.png" group-title="AMBA",La Mega - 102.9FM - Loma Hermosa
+https://01.solumedia.com.ar:6503/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISONIDO.png" group-title="AMBA",Sonido - 103.5FM - Lomas del Mirador
 http://streaming.radiosenlinea.com.ar:8780/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIREGION.png" group-title="AMBA",Region - 90.5FM - Lomas de Zamora
-https://alpha.radioplayer.com.ar:9234/region905
+https://frontend.radiohdvivo.com/region905/live?1757025074669
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--URBE.png" group-title="AMBA",Urbe - 97.3FM - Lomas de Zamora
 http://streaming2.locucionar.com:9533/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--URBE.png" group-title="AMBA",Voces - 107.7FM - Lomas de Zamora
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIVOCESL.png" group-title="AMBA",Voces - 107.7FM - Lomas de Zamora
 http://server.laradio.online:8320/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-LAUNI.png" group-title="AMBA",La Uni - 91.7FM - Los Polvorines
+https://cdn.instream.audio/:9275/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICRISOL.png" group-title="AMBA",Crisol - 92.3FM - Los Polvorines
 http://streaming1.locucionar.com:13094/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIABBALP.png" group-title="AMBA",ABBA - 96.3FM - Los Polvorines
+https://sslstream.online/8428/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPUB907.png" group-title="AMBA",La Radio Publica - 90.7FM - Marcos Paz
-https://masstreaming.online:8432/stream
+https://online.radiomelody.com.ar:9001/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----SI.png" group-title="AMBA",SI - 91.1FM - Martinez
+https://sc.netradiofm.com/p/9022
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-FENIX.png" group-title="AMBA",Fenix - 100.3FM - Martinez
 https://radios.yanapak.org/fmfenix1003
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIBUN949.png" group-title="AMBA",Bunker - 94.9FM - Merlo
