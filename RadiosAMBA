@@ -378,7 +378,7 @@ http://streaming01.radiosenlinea.com.ar/8902/stream/;type=mp3
 https://01.solumedia.com.ar:8328/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-LAMIX.png" group-title="AMBA",La Mix - 104.1FM - Glew
 https://sc.host-live.com:10667/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-RHEMA.png" group-title="AMBA",Rhema - 102.1FM - Gonzalez Catan
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="AMBA",Rhema - 102.1FM - Gonzalez Catan
 https://frontend.radiohdvivo.com/rhemafm1021/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINA1003.png" group-title="AMBA",La Nueva Amiga - 100.3FM - Grand Bourg
 http://streaming2.locucionar.com:8862/stream
