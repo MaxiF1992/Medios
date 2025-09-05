@@ -454,30 +454,34 @@ https://sc.netradiofm.com/p/9022
 https://radios.yanapak.org/fmfenix1003
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIBUN949.png" group-title="AMBA",Bunker - 94.9FM - Merlo
 http://sonicpanel.hostradios.com:10023/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIBUENUE.png" group-title="AMBA",La Buena Semilla - 92.5FM - Merlo
+https://radio01.ferozo.com/proxy/ra01000898?mp=/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFED981.png" group-title="AMBA",Federal - 98.1FM - Merlo
 https://streaming01.shockmedia.com.ar:10459/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMALVIN.png" group-title="AMBA",Malvinas - 91.9FM - Monte Grande
 http://server.radiostreaming.com.ar:8658/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIALT969.png" group-title="AMBA",Alternativa - 96.9FM - Monte Grande
+https://server7.hostradios.com:7038/;?1757111158602
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINOS993.png" group-title="AMBA",Nostalgie - 99.3FM - Monte Grande
+http://streaming5.locucionar.com/proxy/nostalgie993?mp=/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPUBLMO.png" group-title="AMBA",Publica - 90.7FM - Moreno
 https://stream.zeno.fm/ez247x3h65quv
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIABR909.png" group-title="AMBA",Abril - 90.9FM - Moreno
-http://server.laradio.online:9004/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIHOR945.png" group-title="AMBA",Horizonte - 94.5FM - Moreno
 http://streaming.radiosenlinea.com.ar:9058/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="AMBA",Latina Digital - 99.7FM - Moreno
-https://emisora.zonasinergia.com:7101
+https://frontend.radiohdvivo.com/fmlatina997/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--ECOM.png" group-title="AMBA",Eco - 102.5FM - Moreno
 http://server.laradio.online:8270/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIREVOLU.png" group-title="AMBA",Revolution - 103.3FM - Moreno
-http://server.ohradio.com.ar:9772/stream
+http://stream.hamop.com.ar/8460/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIRH1057.png" group-title="AMBA",Retro Hits - 105.7FM - Moreno
 https://streaming.escuchanosonline.com:7000/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---VEO.png" group-title="AMBA",VEO - 91.7FM - Moron
-http://streaming1.locucionar.com:13170/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPO1065.png" group-title="AMBA",Popular - 106.5FM - Moreno
+https://stream.zeno.fm/k3934apbxquv
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIZETAMO.png" group-title="AMBA",Zeta - 100.1FM - Moron
-https://server.ohradio.com.ar:7211/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITEXALA.png" group-title="AMBA",Texalar - 100.9FM - Moron
-http://aliasdns.info:8040/live
+http://streaming2.locucionar.com/proxy/fmzeta?mp=/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIZETAMO.png" group-title="AMBA",La Siglo - 100.3FM - Moron
+http://streaming01.shockmedia.com.ar:10862/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIGBAMOR.png" group-title="AMBA",GBA - 102.9FM - Moron
 http://rr5100.globalhost1.com:8540/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICRI883.png" group-title="AMBA",Cristiana - 88.3FM - Munro
