@@ -480,7 +480,7 @@ https://streaming.escuchanosonline.com:7000/stream
 https://stream.zeno.fm/k3934apbxquv
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIZETAMO.png" group-title="AMBA",Zeta - 100.1FM - Moron
 http://streaming2.locucionar.com/proxy/fmzeta?mp=/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIZETAMO.png" group-title="AMBA",La Siglo - 100.3FM - Moron
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILS1003.png" group-title="AMBA",La Siglo - 100.3FM - Moron
 http://streaming01.shockmedia.com.ar:10862/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIGBAMOR.png" group-title="AMBA",GBA - 102.9FM - Moron
 http://rr5100.globalhost1.com:8540/stream
@@ -489,7 +489,7 @@ https://rr5100.globalhost1.com/8540/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISIGNOS.png" group-title="AMBA",Signos - 92.5FM - Munro
 https://radios.streamingdha.com.ar/8046/;
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMANANO.png" group-title="AMBA",Manantial - 93.9FM - Olivos
-https://kappa.radioplayer.com.ar:9134/manantial939
+https://frontend.radiohdvivo.com/manantial939/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPODEST.png" group-title="AMBA",Podesta - 89.3FM - Pablo Podesta
 http://78.129.229.120:38489/;
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRL449.png" group-title="AMBA",Estacion 88 - 88.3FM - Pilar
@@ -501,23 +501,21 @@ http://cdn.instream.audio:8173/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIESTUD2.png" group-title="AMBA",Estudio 2 - 105.9FM - Pilar
 http://streamall.alsolnet.com:443/fmestudiohd
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISUR889.png" group-title="AMBA",Sur - 88.9FM - Quilmes
-http://streamall.alsolnet.com:443/fmsurquilmeshd
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRL368.png" group-title="AMBA",Compartiendo - 89.7FM - Quilmes
+http://sonic.host-live.com/8258/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="AMBA",Compartiendo - 89.7FM - Quilmes
 http://server.laradio.online:8467/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NOVAK.png" group-title="AMBA",Novak - 91.1FM - Quilmes
-https://servidor17-4.brlogic.com:7268/live
+https://server.streamcasthd.com/8540/stream/;
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-NOVAK.png" group-title="AMBA",MURKTV - 91.5FM - Quilmes
+http://streaming01.shockmedia.com.ar:10272/stream?icy=http
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITIT929.png" group-title="AMBA",Titanium - 92.9FM - Quilmes
-https://strma1.fmtitanium.com.ar:10443/listen/fmtitanium929/live.mp3
+https://strma.fmtitanium.com.ar/live.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LAQ.png" group-title="AMBA",Q - 93.5FM - Quilmes
 https://streamlky.alsolnet.com/radiofmq
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIWEN937.png" group-title="AMBA",Wen - 93.9FM - Quilmes
 http://streaming01.shockmedia.com.ar:9164/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-ELI-T.png" group-title="AMBA",Eli-T - 97.1FM - Quilmes
-http://server1.dainusradio.com:9882/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---VOX.png" group-title="AMBA",VOX - 102.9FM - Quilmes
 https://streaming01.shockmedia.com.ar:10636/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISERENA.png" group-title="AMBA",Serena - 103.5FM - Quilmes
-http://server.ohradio.com.ar:9998/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---FAN.png" group-title="AMBA",FAN - 103.9FM - Quilmes
 http://radio01.ferozo.com:9384/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPARAIS.png" group-title="AMBA",Paraiso - 106.1FM - Quilmes
@@ -526,14 +524,16 @@ http://server1.veemesoft.com.ar:25867/stream
 http://vps-c0159cbc.vps.ovh.ca:8016/;
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIRADIOG.png" group-title="AMBA",Radio G - 107.1FM - Quilmes
 http://server.laradio.online:9203/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/ARGENT.png" group-title="AMBA",La Querencia - 93.9FM - Rafael Calzada
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILAQUER.png" group-title="AMBA",La Querencia - 93.9FM - Rafael Calzada
 http://server1.veemesoft.com.ar:9678/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/---KAO.png" group-title="AMBA",KAO - 95.1FM - Rafael Castillo
-http://sonic.dattalive.com:8236/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-FMDOS.png" group-title="AMBA",Dos - 91.7FM - Rafael Castillo
+http://streaming.evolucionstreaming.com:10950/stream/;
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---KOA.png" group-title="AMBA",KOA - 107.1FM - Rafael Castillo
+http://sonic.host-live.com/8258/stream;
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFREEWR.png" group-title="AMBA",Freeway - 90.7FM - Ramos Mejia
 http://cdn.instream.audio:9117/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIIMAGIN.png" group-title="AMBA",Imaginaria - 95.3FM - Ramos Mejia
-http://streaming2.locucionar.com:8023/stream
+http://streaming.escuchanosonline.com/8660/;
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRL714.png" group-title="AMBA",Class - 91.9FM - Saenz Peña
 http://streaming01.dwservers.net:8400/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---SOS.png" group-title="AMBA",SOS - 105.1FM - San Andres
