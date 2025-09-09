@@ -535,27 +535,23 @@ http://cdn.instream.audio:9117/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIIMAGIN.png" group-title="AMBA",Imaginaria - 95.3FM - Ramos Mejia
 http://streaming.escuchanosonline.com/8660/;
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRL714.png" group-title="AMBA",Class - 91.9FM - Saenz Peña
-http://streaming01.dwservers.net:8400/stream
+http://server.radiostreaming.com.ar/8238/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---SOS.png" group-title="AMBA",SOS - 105.1FM - San Andres
 https://radio.streamingnacional.online:8304/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPRO985.png" group-title="AMBA",Provincial - 98.5FM - San Francisco Solano
 http://centova1.veemesoft.com.ar:8099/live
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILM1009.png" group-title="AMBA",La Matera - 100.9FM - San Francisco Solano
+https://icecasthd.net/proxy/fmlamatera/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISI1013.png" group-title="AMBA",Sion - 101.3FM - San Francisco Solano
 http://stm.livecastradio.com:7076/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMASACT.png" group-title="AMBA",Master Activa - 104.1FM - San Francisco Solano
-http://server1.veemesoft.com.ar:27488/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICOKTELpng" group-title="AMBA",Coktel Max - 103.3FM - San Francisco Solano
+http://streaming1.locucionar.com/proxy/cocktelmaxradio?mp=/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-LB883.png" group-title="AMBA",La Barca - 88.3FM - San Fernando
 http://servidor2.hostradios.com:9468/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIOCC971.png" group-title="AMBA",Occidente - 97.1FM - San Fernando
-http://s1.radiosnethosting.com:9968/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----SI.png" group-title="AMBA",SI - 91.1FM - San Isidro
-http://01.solumedia.com.ar:9038/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISYMPSI.png" group-title="AMBA",Symphony - 91.3FM - San Isidro
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="AMBA",Marin - 90.5FM - San Isidro
+https://frontend.radiohdvivo.com/radiomarin905/live
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="AMBA",Symphony - 91.3FM - San Isidro
 http://cdn.instream.audio:8129/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-UNIKA.png" group-title="AMBA",Unika - 94.5FM - San Isidro
-https://streaming01.radiosenlinea.com.ar:8218/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--INFO.png" group-title="AMBA",INFO95.5 - 95.5FM - San Isidro
-https://radio.info955.com.ar/info955
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---R80.png" group-title="AMBA",R80 - 88.3FM - San Justo
 https://streaming.escuchanosonline.com:7006/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--UNLM.png" group-title="AMBA",Universidad - 89.1FM - San Justo
