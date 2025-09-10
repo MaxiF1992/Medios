@@ -548,42 +548,38 @@ http://stm.livecastradio.com:7076/stream
 http://streaming1.locucionar.com/proxy/cocktelmaxradio?mp=/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-LB883.png" group-title="AMBA",La Barca - 88.3FM - San Fernando
 http://servidor2.hostradios.com:9468/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="AMBA",Marin - 90.5FM - San Isidro
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-MARIN.png" group-title="AMBA",Marin - 90.5FM - San Isidro
 https://frontend.radiohdvivo.com/radiomarin905/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="AMBA",Symphony - 91.3FM - San Isidro
 http://cdn.instream.audio:8129/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---R80.png" group-title="AMBA",R80 - 88.3FM - San Justo
-https://streaming.escuchanosonline.com:7006/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--UNLM.png" group-title="AMBA",Universidad - 89.1FM - San Justo
-http://d2.stweb.tv/unlam/radio/playlist.m3u8
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISJUSTO.png" group-title="AMBA",San Justo - 94.9FM - San Justo
+http://chiino.republicahosting.com:2005/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPLURAL.png" group-title="AMBA",Plural - 103.9FM - San Justo
 http://181.119.65.77:8054/live
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIESTESM.png" group-title="AMBA",Estelar - 93.5FM - San Martin
+https://radios.solumedia.com:6488/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINVG971.png" group-title="AMBA",Nueva Generacion - 97.1FM - San Martin
+http://streaming01.shockmedia.com.ar/7050/stream/;
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--ELET.png" group-title="AMBA",ELET - 99.3FM - San Martin
 http://streaming1.locucionar.com:13705/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIATOMIK.png" group-title="AMBA",Atomika - 106.1FM - San Martin
 http://streaming.radiosenlinea.com.ar:8652/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="AMBA",Plus - 88.1FM - San Miguel
-https://player.voxstream.net/proxy/7072
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI----GP.png" group-title="AMBA",GP - 88.9FM - San Miguel
-https://argentina.republicahosting.com:1111/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISUM961.png" group-title="AMBA",Summer - 96.1FM - San Miguel
-https://server.ohradio.com.ar:7158/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMAZASM.png" group-title="AMBA",Maza - 99.5FM - San Miguel
 http://streaming01.shockmedia.com.ar:9218/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VITRUJUI.png" group-title="AMBA",Trujui - 90.1FM - Santa Maria
-https://masstreaming.online/8376/stream
+https://server4.hostradios.com:7055/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAPUNTE.png" group-title="AMBA",Apuntes - 98.9FM - Santos Lugares
 http://streaming2.locucionar.com:8112/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPODEROS.png" group-title="AMBA",La Poderosa - 98.9FM - Sarandi
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPODERO.png" group-title="AMBA",La Poderosa - 98.9FM - Sarandi
 https://streaming01.shockmedia.com.ar:10581/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMER909.png" group-title="AMBA",Mercado - 90.9FM - Tapiales
-http://miradioenlaweb.com:4318/;
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---GPS.png" group-title="AMBA",GPS el Camino - 90.7FM - Temperley
-https://alpha.radioplayer.com.ar/stream/cadenajcb/gps
+http://radio.mercadocentral.gob.ar/;
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---JCB.png" group-title="AMBA",JCB - 94.5FM - Temperley
-https://alpha.radioplayer.com.ar/stream/cadenajcb/jcb
+https://frontend.radiohdvivo.com/grupojcb955/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIWELCOM.png" group-title="AMBA",Welcome - 105.9FM - Temperley
 http://streaming2.locucionar.com:8677/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISKYLAB.png" group-title="AMBA",Skylab - 94.9FM - Tigre
+https://streaming.escuchanosonline.com:7282/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-BEATS.png" group-title="AMBA",Beats - 100.5FM - Tigre
 http://streaming01.shockmedia.com.ar:9778/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-MAGIC.png" group-title="AMBA",Magic - 100.9FM - Tigre
