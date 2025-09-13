@@ -416,6 +416,8 @@ https://streaming6.locucionar.com:24008/stream
 https://ssl.veemesoft.com.ar/806c92633b9510678493
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICON989.png" group-title="AMBA",Contemporanea - 98.9FM - Jose C. Paz
 http://streaming3.locucionar.com:16252/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICON989.png" group-title="AMBA",Rincon Paraguayo - 103.9FM - Jose C. Paz
+https://emisora.zonasinergia.com:7001/;
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="AMBA",Tinkunaco - 107.3FM - Jose C. Paz
 http://stream.codigosur.org:8000/fm-tinkunaco.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILRI423.png" group-title="AMBA",Raices - 88.5FM - Jose Leon Suarez
@@ -544,7 +546,7 @@ http://centova1.veemesoft.com.ar:8099/live
 https://icecasthd.net/proxy/fmlamatera/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISI1013.png" group-title="AMBA",Sion - 101.3FM - San Francisco Solano
 http://stm.livecastradio.com:7076/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICOKTELpng" group-title="AMBA",Coktel Max - 103.3FM - San Francisco Solano
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICOKTEL.png" group-title="AMBA",Coktel Max - 103.3FM - San Francisco Solano
 http://streaming1.locucionar.com/proxy/cocktelmaxradio?mp=/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-LB883.png" group-title="AMBA",La Barca - 88.3FM - San Fernando
 http://servidor2.hostradios.com:9468/stream
@@ -562,6 +564,8 @@ https://radios.solumedia.com:6488/stream
 http://streaming01.shockmedia.com.ar/7050/stream/;
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--ELET.png" group-title="AMBA",ELET - 99.3FM - San Martin
 http://streaming1.locucionar.com:13705/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIARGENT.png" group-title="AMBA",Genesis - 104.1FM - San Martin
+https://server.laradio.online:35179/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIATOMIK.png" group-title="AMBA",Atomika - 106.1FM - San Martin
 http://streaming.radiosenlinea.com.ar:8652/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMAZASM.png" group-title="AMBA",Maza - 99.5FM - San Miguel
@@ -573,9 +577,11 @@ http://streaming2.locucionar.com:8112/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIPODERO.png" group-title="AMBA",La Poderosa - 98.9FM - Sarandi
 https://streaming01.shockmedia.com.ar:10581/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMER909.png" group-title="AMBA",Mercado - 90.9FM - Tapiales
-http://radio.mercadocentral.gob.ar/;
+https://radio.mercadocentral.gob.ar/;
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---GPS.png" group-title="AMBA",GPS, el Camino - 90.9FM - Temperley
+https://frontend.radiohdvivo.com/grupojcbgps/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---JCB.png" group-title="AMBA",JCB - 94.5FM - Temperley
-https://frontend.radiohdvivo.com/grupojcb955/live
+https://frontend.radiohdvivo.com/grupojcb945/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIWELCOM.png" group-title="AMBA",Welcome - 105.9FM - Temperley
 http://streaming2.locucionar.com:8677/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISKYLAB.png" group-title="AMBA",Skylab - 94.9FM - Tigre
@@ -584,22 +590,26 @@ https://streaming.escuchanosonline.com:7282/stream
 http://streaming01.shockmedia.com.ar:9778/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-MAGIC.png" group-title="AMBA",Magic - 100.9FM - Tigre
 http://radio01.ferozo.com:8922/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/MAL977.png" group-title="AMBA",Malvinas - 97.7FM - Tortuguitas
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---ATR.png" group-title="AMBA",ATR - 103.3FM - Tigre
+https://streaming6.locucionar.com:24144/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAMATOR.png" group-title="AMBA",Amada Tortuguitas - 91.9FM - Tortuguitas
+https://server.laradio.online/proxy/paula_salinas?mp=/stream&1757799585856
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIMAL977.png" group-title="AMBA",Malvinas - 97.7FM - Tortuguitas
 http://streamconex.com:8042/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIES1057.png" group-title="AMBA",Escucha - 105.7FM - Tortuguitas
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---NTV.png" group-title="AMBA",NTV - 104.5FM - Tortuguitas
+https://www.ntvradio.com.ar/proxy.php
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIESCUCH.png" group-title="AMBA",Escucha - 107.7FM - Tortuguitas
 https://streaming01.shockmedia.com.ar:10667/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI--VEGA.png" group-title="AMBA",Vega - 95.3FM - Villa Bosch
-https://01.solumedia.com.ar:7259/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIRIOTDT.png" group-title="AMBA",Rio - 88.5FM - Troncos del Talar
+https://ohradio.cc/8070/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIGA1059.png" group-title="AMBA",Galaxia - 105.9FM - Villa de Mayo
-https://server.ohradio.com.ar:7319/stream
+https://ohradio.cc/8312/stream
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIUN1071.png" group-title="AMBA",Universal - 107.1FM - Villa de Mayo
+https://streaming6.locucionar.com:24104/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VINUEHOR.png" group-title="AMBA",Nuevos Horizontes - 107.5FM - Villa de Mayo
-http://streaming1.locucionar.com:12048/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VILTECNO.png" group-title="AMBA",La Tecno - 88.3FM - Villa Dominico
-http://190.120.191.168:8000/latecno
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFLECHA.png" group-title="AMBA",Flecha de Oro - 104.9FM - Villa Insuperable
-http://audiohd.sonidosenlared.com:9049/stream
+https://streaming3.locucionar.com/proxy/nuevoshorizontes1075?mp=/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIFMLUZU.png" group-title="AMBA",LUZU - 92.3FM - Villa Luzuriaga
-http://sonic.dattalive.com:8132/;
+http://sonic.host-live.com:8132/;
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIZONICA.png" group-title="AMBA",Zonica - 105.9FM - Villa Martelli
 http://audio.questreaming.com:25491/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIHURCEN.png" group-title="AMBA",Center - 98.5FM - William Morris
