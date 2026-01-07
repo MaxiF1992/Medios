@@ -35,8 +35,8 @@ https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
 http://01.solumedia.com.ar:8420/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LR5.png" group-title="CABA",LR5 La Red - 910AM - Cd Aut Bs As
 http://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC_SC
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICNN950.png" group-title="CABA",LR3 CNN - 950AM - Cd Aut Bs As
-http://redirector.dps.live/cnn-ar/aac/icecast.audio
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICNN950.png" group-title="CABA",LR3 StreAM950 - 950AM - Cd Aut Bs As
+https://unlimited5-us.dps.live/cnn-ar/aac/icecast.audio?type=.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LR4.png" group-title="CABA",LR4 La990 - 990AM - Cd Aut Bs As
 http://playerservices.streamtheworld.com/api/livestream-redirect/AM990AAC_SC
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIONDALA.png" group-title="CABA",Onda Latina - 1010AM - Cd Aut Bs As
