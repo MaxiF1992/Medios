@@ -4,7 +4,7 @@ https://ipanel.instream.audio:7000/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---CW1.png" group-title="CABA",CW1 Colonia - Cd Aut Bs As
 http://playerservices.streamtheworld.com/api/livestream-redirect/COLONIAAAC_SC
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-AM570.png" group-title="CABA",Belgrano - 570AM - Cd Aut Bs As
-http://server.laradio.online:25224/live.mp3
+https://server.laradio.online/proxy/lisandro_civit2?mp=/live.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS4.png" group-title="CABA",LS4 Continental - 590AM - Cd Aut Bs As
 https://frontend.radiohdvivo.com/continental/live
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS5.png" group-title="CABA",LS5 Rivadavia - 630AM - Cd Aut Bs As
@@ -35,7 +35,7 @@ https://sa.mp3.icecast.magma.edge-access.net/sc_rad1
 http://01.solumedia.com.ar:8420/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LR5.png" group-title="CABA",LR5 La Red - 910AM - Cd Aut Bs As
 http://playerservices.streamtheworld.com/api/livestream-redirect/LA_RED_AM910AAC_SC
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VICNN950.png" group-title="CABA",LR3 StreAM950 - 950AM - Cd Aut Bs As
+#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VISTREAM.png" group-title="CABA",LR3 StreAM950 - 950AM - Cd Aut Bs As
 https://unlimited5-us.dps.live/cnn-ar/aac/icecast.audio?type=.mp3
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LR4.png" group-title="CABA",LR4 La990 - 990AM - Cd Aut Bs As
 http://playerservices.streamtheworld.com/api/livestream-redirect/AM990AAC_SC
@@ -49,8 +49,6 @@ https://sonic.host-live.com/8482/stream
 https://ipanel.instream.audio:7001/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LS1.png" group-title="CABA",LS1 Radio de la Ciudad - 1110AM - Cd Aut Bs As
 https://media.radios.ar:1110/stream
-#EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VIAM1130.png" group-title="CABA",Show - 1130AM - Cd Aut Bs As
-http://3.223.187.189:7130/stream
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI---LR9.png" group-title="CABA",LR9 Perfil - 1190AM - Cd Aut Bs As
 https://jireh-1-hls-audio-ar-isp.dps.live/hls-audio/4e252a65837b69e349d5d8c1033152b4/perfil/playlist/manifest/gotardisz/audio/now/livestream1.m3u8
 #EXTINF:-1 tvg-logo="http://www.radiosargentina.com.ar/png/VI-ECOAM.png" group-title="CABA",LRI224 Cadena Eco - 1220AM - Cd Aut Bs As
