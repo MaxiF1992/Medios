@@ -7,55 +7,73 @@ https://26483.live.streamtheworld.com/NCINTER_PYTAAC.aac
 https://27593.live.streamtheworld.com/NCLASICOSNAC_PYTAAC.aac
 
 #EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/60's.png" group-title="Generos",60'
-https://buecrplb01.cienradios.com.ar/576_Boleros_32000.aac
+https://24443.live.streamtheworld.com/60_PYTAAC.aac
 
 #EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/70internacional.jpeg" group-title="Generos",70'
-https://buecrplb01.cienradios.com.ar/577_Bossa_Nova_32000.aac
+https://27613.live.streamtheworld.com/70INTERNACIONAL_PYTAAC.aac
 
 #EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/80internacional.jpeg" group-title="Generos",80'
-https://buecrplb01.cienradios.com.ar/625_Britpop_32000.aac
+https://27423.live.streamtheworld.com/80INTERNACIONAL_PYTAAC.aac
 
 #EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/90internacional.jpeg" group-title="Generos",90'
-https://buecrplb01.cienradios.com.ar/786_Chillout_32000.aac
+https://27383.live.streamtheworld.com/90INTER_PYTAAC.aac
 
 #EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/grandesdelrock.jpeg" group-title="Generos",Grandes del Rock
-https://buecrplb01.cienradios.com.ar/642_Clasica_32000.aac
+https://27443.live.streamtheworld.com/GRANDESDELROCK_PYTAAC.aac
 
 #EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/musicaenvivo.jpeg" group-title="Generos",Vivo
-https://buecrplb01.cienradios.com.ar/799_Cristiana_32000.aac
+https://27353.live.streamtheworld.com/MUSICAENVIVO_PYTAAC.aac
 
 #EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/newpartyradios.jpg" group-title="Generos",New Party
-https://buecrplb01.cienradios.com.ar/578_Cuarteto_32000.aac
+https://24443.live.streamtheworld.com/NEWPARTY_PYTAAC.aac
 
 #EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/newage.jpeg" group-title="Generos",New Age
-https://buecrplb01.cienradios.com.ar/779_Cumbia_32000.aac
+https://27373.live.streamtheworld.com/NEWAGE_PYTAAC.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/opera.jpeg" group-title="Generos",Pop
+https://13693.live.streamtheworld.com/POP_PYTAAC.aac
 
 #EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/peliculas.jpeg" group-title="Generos",Peliculas
-https://buecrplb01.cienradios.com.ar/568_Electronic_Tango_32000.aac
+https://26483.live.streamtheworld.com/PELICULAS_PYTAAC.aac
 
 #EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/romantica.jpeg" group-title="Generos",Romantica
-https://buecrplb01.cienradios.com.ar/1415_Fado_32000.aac
+https://27583.live.streamtheworld.com/ROMANTICA_PYTAAC.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/opera.jpeg" group-title="Generos",Boleros
+https://27353.live.streamtheworld.com/BOLEROS_PYTAAC.aac
 
 #EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/lentos.png" group-title="Generos",Lentos
-https://buecrplb01.cienradios.com.ar/582_Folklore_32000.aac
+https://27613.live.streamtheworld.com/LENTOS_PYTAAC.aac
 
 #EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/latina.jpeg" group-title="Generos",Latina
-https://buecrplb01.cienradios.com.ar/660_Gospel_y_Cristiana_32000.aac
+https://27423.live.streamtheworld.com/LATINA_PYTAAC.aac
 
 #EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/jazz.jpeg" group-title="Generos",Jazz
-https://buecrplb01.cienradios.com.ar/665_Heavy_Metal_32000.aac
+https://24283.live.streamtheworld.com/JAZZ_PYTAAC.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/opera.jpeg" group-title="Generos",Salsa
+https://27613.live.streamtheworld.com/SALSA_PYTAAC.aac
 
 #EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/reggae.jpeg" group-title="Generos",Reggae
-https://buecrplb01.cienradios.com.ar/580_Electronico_32000.aac
+https://26503.live.streamtheworld.com/REGGAE_PYTAAC.aac
 
 #EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/chillout.jpeg" group-title="Generos",Chill Out
-https://buecrplb01.cienradios.com.ar/1022_Heavy_Metal_Nacional_32000.aac
+https://27613.live.streamtheworld.com/CHILLOUT_PYTAAC.aac
 
 #EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/tango.jpeg" group-title="Generos",Tango
-https://buecrplb01.cienradios.com.ar/1313_Indie_Argentino_32000.aac
+https://27353.live.streamtheworld.com/TANGO_PYTAAC.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/opera.jpeg" group-title="Generos",Folclore
+https://14073.live.streamtheworld.com/FOLCLORE_PYTAAC.aac
 
 #EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/clasica.jpeg" group-title="Generos",Clasica
-https://buecrplb01.cienradios.com.ar/681_Jazz_32000.aac
+https://27373.live.streamtheworld.com/CLASICA_PYTAAC.aac
 
 #EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/opera.jpeg" group-title="Generos",Opera
-https://buecrplb01.cienradios.com.ar/947_K_Pop_32000.aac
+https://27363.live.streamtheworld.com/OPERA_PYTAAC.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/opera.jpeg" group-title="Generos",Cumbia
+https://27593.live.streamtheworld.com/CUMBIA_PYTAAC.aac
+
+#EXTINF:-1 type="stream" tvg-logo="https://cloudfrontfenix.cienradios.com/programasyemisoras/players/opera.jpeg" group-title="Generos",Cuarteto
+https://27353.live.streamtheworld.com/CUARTETO_PYTAAC.aac
